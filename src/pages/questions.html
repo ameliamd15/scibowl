@@ -7,7 +7,7 @@
 <ion-content>
   <ion-card *ngFor="let item of items" (click)="showAnswer(item)" icon-start>
     <ion-card-header>
-      {{item.questionNumber}}. {{item.type}}
+      {{item.questionNumber}}. {{item.category}} ({{item.type}})
     </ion-card-header>
 
     <ion-card-content text-wrap ion-item >
