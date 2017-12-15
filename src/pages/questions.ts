@@ -23,6 +23,7 @@ export class QuestionsPage {
         }
       }
     }
+    params.data.questions.sort(function(a,b){ return a.questionNumber - b.questionNumber;})
     this.items = params.data.questions;
   }
 
