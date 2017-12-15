@@ -6,15 +6,15 @@
 
 <ion-content>
   <ion-card *ngFor="let item of items" (click)="showAnswer(item)" icon-start>
-    <ion-card-header>
-      {{item.questionNumber}}. {{item.category}} ({{item.type}})
+    <ion-card-header text-wrap>
+      <div>{{item.questionNumber}}. {{item.category}} ({{item.type}}) </div>
+      <div style="margin-top:5px">{{ item.question }}</div>
+
     </ion-card-header>
 
-    <ion-card-content text-wrap ion-item >
-        <ion-icon [name]="'md-' + item.icon" [ngStyle]="{'color': item.color}" item-start></ion-icon>
-        {{ item.question }}
-        <div *ngIf="item.multipleChoice" style="margin-top:5px">
-          <div *ngFor="let choice of item.choicesArray" style="margin-bottom:2px">
+    <ion-card-content ion-item >
+        <div *ngIf="item.multipleChoice" >
+          <div *ngFor="let choice of item.choicesArray" style="margin-bottom:3px">
             {{choice.option}}) {{choice.value}}
           </div>
         </div>
