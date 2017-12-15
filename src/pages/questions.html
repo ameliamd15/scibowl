@@ -1,10 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>$Title$</title>
-</head>
-<body>
-$END$
-</body>
-</html>
+<ion-header>
+  <ion-navbar>
+    <ion-title>Questions</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-card *ngFor="let item of items" (click)="showAnswer(item)" icon-start>
+    <ion-card-header>
+      {{item.type}}
+    </ion-card-header>
+
+    <ion-card-content text-wrap ion-item >
+        <ion-icon [name]="'md-' + item.icon" [ngStyle]="{'color': item.color}" item-start></ion-icon>
+        {{ item.question }}
+        <div *ngIf="item.multipleChoice" style="margin-top:5px">
+          <div *ngFor="let choice of item.choicesArray" style="margin-bottom:2px">
+            {{choice.option}}) {{choice.value}}
+          </div>
+        </div>
+    </ion-card-content>
+
+  </ion-card>
+</ion-content>
+
