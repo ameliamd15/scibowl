@@ -1,0 +1,8 @@
+{
+  "name": "scibowl",
+  "app_id": "bdca2b2a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
