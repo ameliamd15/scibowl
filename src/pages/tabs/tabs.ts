@@ -10,7 +10,7 @@ import { ContestsPage } from '../contests/contests';
 export class TabsPage {
 
   tab1Root = ContestsPage;
-  tab3Root = AboutPage;
+  //tab3Root = AboutPage;
   tab2Root = TopicsPage;
 
   constructor() {

@@ -44,6 +44,6 @@ export class ContestsPage {
   }
 
   openContestPage(round) {
-    this.nav.push(QuestionsPage, { pageLabel: round.label, questionIndexes: QuestionBank.bank.questionsByContest[round.key] });
+    this.nav.push(QuestionsPage, { viewMode: 0, pageLabel: round.label, questionIndexes: QuestionBank.bank.questionsByContest[round.key] });
   }
 }

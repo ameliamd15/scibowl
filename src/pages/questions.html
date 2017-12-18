@@ -1,25 +1,53 @@
 <ion-header>
   <ion-navbar>
     <ion-title>{{pageLabel}}</ion-title>
+    <ion-buttons end>
+      <button ion-button icon-only (click)="toggleMode()" [ngStyle]="{'color': color}">
+        <ion-icon name="color-wand"></ion-icon>
+      </button>
+    </ion-buttons>
   </ion-navbar>
 </ion-header>
 
 <ion-content>
   <ion-card *ngFor="let item of items" (click)="showAnswer(item)" icon-start>
-    <ion-card-header text-wrap>
+    <ion-card-header text-wrap >
+      <div *ngIf="viewMode == 1" >{{item.questionSet}} - {{item.round}}</div>
+      <div *ngIf="viewMode == 1" style="margin-top:4px"></div>
       <div>{{item.questionNumber}}. {{item.category}} ({{item.type}}) </div>
       <div style="margin-top:5px">{{ item.question }}</div>
-
     </ion-card-header>
 
-    <ion-card-content ion-item >
-        <div *ngIf="item.multipleChoice" >
+    <ion-card-content ion-item text-wrap >
+        <div *ngIf="item.multipleChoice" style="margin-bottom:4px" >
           <div *ngFor="let choice of item.choicesArray" style="margin-bottom:3px">
             {{choice.option}}) {{choice.value}}
+          </div>
+        </div>
+
+        <div *ngIf="mode == 1" >
+          <div style="margin-bottom:4px">
+            Answer: {{item.answer}}
           </div>
         </div>
     </ion-card-content>
 
   </ion-card>
 </ion-content>
+
+<ion-footer *ngIf="pages > 1">
+  <ion-toolbar>
+    <ion-buttons start *ngIf="currentPage > 1">
+      <button ion-button icon-only color="royal" (click)="previous()">
+        <ion-icon name="arrow-dropleft"></ion-icon>
+      </button>
+    </ion-buttons>
+    <ion-title>Page {{currentPage}} of {{pages}}</ion-title>
+    <ion-buttons end *ngIf="currentPage < pages">
+      <button ion-button icon-only color="royal"(click)="next()">
+        <ion-icon name="arrow-dropright"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-footer>
 
