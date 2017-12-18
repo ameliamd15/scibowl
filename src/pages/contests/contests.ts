@@ -3,6 +3,7 @@ import { NavController } from 'ionic-angular';
 import {QuestionService} from "../../app/question.service";
 import {Question} from "../../app/question";
 import {QuestionsPage} from "../questions";
+import {QuestionBank} from "../../app/question-bank";
 
 @Component({
   selector: 'page-contests',
@@ -16,27 +17,33 @@ export class ContestsPage {
 
   constructor(public nav: NavController, private questionService: QuestionService) {
     let me = this;
-    me.questionService.getQuestions()
-      .subscribe(questions => {
-        let label: string;
-        me.questions = questions;
-        for (var i = 0; i < me.questions.length; ++i) {
-          label = questions[i].round + " (" + questions[i].file + ")";
-          if (!me.contests[label]) {
-            me.items.push({
-              title: label, color:'#F46529', icon:'aperture'
-            });
-            me.contests[label] = [];
-          }
-          me.contests[label].push(questions[i]);
-        }
-        me.items.sort(function(a, b){return a.title.localeCompare(b.title);})
+    let contests = Object.keys(QuestionBank.bank.questionsByContest).sort(), sets = {};
+
+    for (var i = 0; i < contests.length; ++i) {
+      let split = contests[i].split("#");
+      if (!sets[split[1]]) sets[split[1]] = [];
+
+      sets[split[1]].push({
+        label: split[2],
+        key: contests[i]
       });
+    }
 
-
+    var setKeys = Object.keys(sets);
+    for (var i = 0; i < setKeys.length; ++i) {
+      if (setKeys[i].indexOf("Set") == 0) {
+        sets[setKeys[i]].sort(function (a, b) {
+          return a.label.split(' ')[1] - b.label.split(' ')[1];
+        });
+      }
+      this.items.push({
+        group: setKeys[i],
+        rounds: sets[setKeys[i]]
+      });
+    }
   }
 
-  openContestPage(item) {
-    this.nav.push(QuestionsPage, { questions: this.contests[item.title] });
+  openContestPage(round) {
+    this.nav.push(QuestionsPage, { pageLabel: round.label, questionIndexes: QuestionBank.bank.questionsByContest[round.key] });
   }
 }

@@ -1,16 +1,22 @@
 import {Component} from "@angular/core";
 import { NavParams } from 'ionic-angular';
 import { AlertController } from 'ionic-angular';
+import {QuestionBank} from "../app/question-bank";
 
 @Component({
   templateUrl: 'questions.html',
 })
 export class QuestionsPage {
   items;
-
+  pageLabel;
   constructor(params: NavParams, public alertCtrl: AlertController) {
-    for (var i = 0; i < params.data.questions.length; ++i) {
-      var question = params.data.questions[i];
+    debugger;
+    let questions = [];
+    for (let i = 0; i < params.data.questionIndexes.length; ++i) {
+      questions.push(QuestionBank.bank.allQuestions[params.data.questionIndexes[i]])
+    }
+    for (let i = 0; i < questions.length; ++i) {
+      var question = questions[i];
       if (question.choices) {
         question.multipleChoice = true;
         var keys = Object.keys(question.choices);
@@ -23,8 +29,9 @@ export class QuestionsPage {
         }
       }
     }
-    params.data.questions.sort(function(a,b){ return a.questionNumber - b.questionNumber;})
-    this.items = params.data.questions;
+    questions.sort(function(a,b){ return a.questionNumber - b.questionNumber;})
+    this.items = questions;
+    this.pageLabel = params.data.pageLabel;
   }
 
   showAnswer(item) {
@@ -35,4 +42,5 @@ export class QuestionsPage {
     });
     alert.present();
   }
+
 }

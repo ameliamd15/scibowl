@@ -19,7 +19,6 @@ export class QuestionService {
   constructor(
     private http: HttpClient) { }
 
-
   /** GET questions from the server */
   getQuestions (): Observable<Question[]> {
     return this.http.get<Question[]>(this.questionsUrl)
