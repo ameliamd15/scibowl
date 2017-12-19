@@ -543,7 +543,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 15",
-        "question": " Find all real numbers that satisfy the inequality |3 − 2�� | > 7 [the absolute value of the quantity 3 minus 2 x is greater than 7]. ",
+        "question": " Find all real numbers that satisfy the inequality |3 − 2x | > 7 [the absolute value of the quantity 3 minus 2 x is greater than 7]. ",
         "answer": " x < -2 OR x > 5 (MUST GIVE BOTH ANSWERS) ",
         "choices": {},
         "id": 30
@@ -1043,7 +1043,7 @@ export class QuestionBank {
         "type": "Multiple Choice",
         "category": " MATH ",
         "questionNumber": " 5",
-        "question": " Given the equation �� 2 = √�� , which of the following conclusions is true? ",
+        "question": " Given the equation x 2 = √x , which of the following conclusions is true? ",
         "answer": " X) THE EQUATION IS TRUE WHEN x = 0 ",
         "multipleChoiceAnswer": "X",
         "choices": {
@@ -1676,7 +1676,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": "  23",
         "question": " What is the equation, in slope intercept form, of the perpendicular bisector of the segment whose endpoints are (-3, 5) and (7, 9)? ",
-        "answer": " �� = − �� + 12 2 5  ",
+        "answer": " y = − 5/2 x + 12  ",
         "choices": {},
         "id": 95
       },
@@ -2041,7 +2041,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 9",
-        "question": " Solve the following equation for x over the real numbers: �� 2 + 8�� = 4.  ",
+        "question": " Solve the following equation for x over the real numbers: x^2 + 8x = 4.  ",
         "answer": " −4 ± 2√5  ",
         "choices": {},
         "id": 116
@@ -2430,13 +2430,13 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 21",
         "question": " If x lies between 1 and 2, which of the following is the smallest? ",
-        "answer": " X) −�� 2  ",
+        "answer": " X) − x^2  ",
         "multipleChoiceAnswer": "X",
         "choices": {
-          "W": " − �� ",
-          "X": " −�� 2 ",
-          "Y": " −�� ",
-          "Z": " −√�� 1  "
+          "W": " − 1/x ",
+          "X": " − x^2 ",
+          "Y": " − x ",
+          "Z": " − √x "
         },
         "id": 139
       },
@@ -2449,7 +2449,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": "  21",
-        "question": " Find all points of intersection of the graphs of the two equations x2 + y2 = 20 and x – y = 2. ",
+        "question": " Find all points of intersection of the graphs of the two equations x^2 + y^2 = 20 and x – y = 2 ",
         "answer": " (4, 2) AND (-2,-4)  ",
         "choices": {},
         "id": 140
@@ -2597,8 +2597,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 1",
-        "question": " Assuming that a and b are non-negative, simplify √72��4 �� 3 [the square root of the quantity 72 a to the fourth b cubed]. ",
-        "answer": " 6��2 ��√2��  ",
+        "question": " Assuming that a and b are non-negative, simplify √72 a^4 b^3 [the square root of the quantity 72 a to the fourth b cubed]. ",
+        "answer": " 6a^2 b√2b",
         "choices": {},
         "id": 148
       },
@@ -3239,8 +3239,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 19",
-        "question": " Determine the value of the function � � (4) [f over g of 4], if ",
-        "answer": " 24/7 (ACCEPT: 3 3/7) �� (�� ) = �� 2 + 2�� and g(x) = 3x - 5. �� ��  ",
+        "question": " Determine the value of the function f/g (4) [f over g of 4], if f(x) = x^2 + 2x and g(x) = 3x - 5",
+        "answer": " 24/7 (ACCEPT: 3 3/7) ",
         "choices": {},
         "id": 184
       },
@@ -3254,11 +3254,11 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 19",
         "question": " If 150% of 5c is b, what percentage of 2b is c? ",
-        "answer": " X) 6 % 3 2 2 2 1  ",
+        "answer": " X) 6 2/3 % ",
         "multipleChoiceAnswer": "X",
         "choices": {
-          "W": " 5 % ",
-          "X": " 6 % 3 ",
+          "W": " 5 1/2 % ",
+          "X": " 6 2/3 % ",
           "Y": " 15% ",
           "Z": " 75% "
         },
@@ -4175,7 +4175,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 20",
-        "question": " What is the coefficient of x2 in the expansion of (2�� − 3)3 [open parenthesis 2 x minus 3 close parenthesis cubed]? ",
+        "question": " What is the coefficient of x2 in the expansion of (2x − 3)^3 [open parenthesis 2 x minus 3 close parenthesis cubed]? ",
         "answer": " -36 ",
         "choices": {},
         "id": 235
@@ -5491,7 +5491,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 10",
-        "question": " If ��(�� ) = �� 2 + 2�� for �� > 0, and ��(�� ) = 2�� − 5, determine the value of ��−1 ��� −1 (15)� [g inverse of f inverse of 15]. ",
+        "question": " If f(x)  = x^2 + 2x for x > 0, and g(x) = 2x − 5, determine the value of g^−1 (f^−1 (15)) [g inverse of f inverse of 15]. ",
         "answer": " 4    ",
         "choices": {},
         "id": 314
@@ -5669,14 +5669,14 @@ export class QuestionBank {
         "type": "Multiple Choice",
         "category": " MATH ",
         "questionNumber": " 16",
-        "question": " The product of two polynomials is �� 5 − 1. One of the polynomials is x – 1. What is the other polynomial? ",
-        "answer": " Y) �� 4 + �� 3 + �� 2 + �� + 1  ",
+        "question": " The product of two polynomials is x^5 − 1. One of the polynomials is x – 1. What is the other polynomial? ",
+        "answer": " Y) x^4 + x^3 + x^2 + x + 1  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
-          "W": " �� 4 − �� 3 + �� 2 − �� + 1 ",
-          "X": " �� 4 − �� 2 + 1 ",
-          "Y": " �� 4 + �� 3 + �� 2 + �� + 1 ",
-          "Z": " �� 4 + �� 2 + 1  "
+          "W": " x^4 − x^3 + x^2 − x + 1 ",
+          "X": " x^4 − x^2 + 1 ",
+          "Y": " x^4 + x^3 + x^2 + x + 1 ",
+          "Z": " x^4 + x^2 + 1  "
         },
         "id": 325
       },
@@ -7089,8 +7089,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 7",
-        "question": " Providing your answer as a mixed number, what is 1 + 2 ? ",
-        "answer": " 4 5 8 4 8 3 7  ",
+        "question": " Providing your answer as a mixed number, what is 1 3/4 + 2 7/8? ",
+        "answer": " 4 5/8 ",
         "choices": {},
         "id": 405
       },
@@ -7287,8 +7287,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 13",
-        "question": " In the following proportion, solve for x over the real numbers: (��−1) 6 = . ",
-        "answer": " ±7 8 (��+1)  ",
+        "question": " In the following proportion, solve for x over the real numbers: (x-1)/8=6/(x+1) ",
+        "answer": " ±7 ",
         "choices": {},
         "id": 417
       },
@@ -7766,7 +7766,7 @@ export class QuestionBank {
           "W": " -1 ",
           "X": " 0 ",
           "Y": " 1 ",
-          "Z": " ��  "
+          "Z": " pi  "
         },
         "id": 446
       },
@@ -8789,8 +8789,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 8",
-        "question": " Solve the following equation for x over the real numbers: x -2 = 81. ",
-        "answer": " �� = ±1/9 ",
+        "question": " Solve the following equation for x over the real numbers: x ^ -2 = 81. ",
+        "answer": " x = ±1/9 ",
         "choices": {},
         "id": 505
       },
@@ -9549,7 +9549,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 5",
-        "question": " If ��+�� ��  = 3.5, what is ? ��  ��  ",
+        "question": " If (a+b)/b  = 3.5, what is a/b ?  ",
         "answer": " 2.5 (ACCEPT: 5/2)  ",
         "choices": {},
         "id": 549
@@ -10317,8 +10317,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 3",
-        "question": " Solve the following equation for x over the real numbers: ",
-        "answer": " 1/5 AND -1/5 (ACCEPT: 0.2 AND -0.2) �� 2 1  = 25?  ",
+        "question": " Solve the following equation for x over the real numbers: 1/(x^2) = 25",
+        "answer": " 1/5 AND -1/5 (ACCEPT: 0.2 AND -0.2) ",
         "choices": {},
         "id": 594
       },
@@ -10549,7 +10549,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " ENERGY ",
         "questionNumber": " 10",
-        "question": " To be able to quantify the energy produced by a solar collector, the following formula is utilized: �� = (��)����� �(���� − ���� ) [Q equals m times C sub p times the quantity T sub r minus T sub s], where �� is the collector heat rate; �� is the mass flowrate, ���� is the specific heat, ���� is the temperature of the liquid in the return path, and ���� is the temperature of the liquid in the supply path. Using 3000 operating hours in a year, compute the yearly heat rate production in kilojoules of a solar collector if m = 2 kilograms per hour, ���� = 4 kilojoules over kilograms Kelvin, ���� = 425 Kelvin, and ���� = 375 Kelvin. ",
+        "question": " To be able to quantify the energy produced by a solar collector, the following formula is utilized: Q = m (Cp) (Tr - Ts) [Q equals m times C sub p times the quantity T sub r minus T sub s], where Q is the collector heat rate; m is the mass flowrate, Cp is the specific heat, Tr is the temperature of the liquid in the return path, and Ts is the temperature of the liquid in the supply path. Using 3000 operating hours in a year, compute the yearly heat rate production in kilojoules of a solar collector if m = 2 kilograms per hour, Cp = 4 kilojoules over kilograms Kelvin, Tr = 425 Kelvin, and Ts = 375 Kelvin. ",
         "answer": " 1,200,000    ",
         "choices": {},
         "id": 608
@@ -10753,7 +10753,7 @@ export class QuestionBank {
         "type": "Multiple Choice",
         "category": " MATH ",
         "questionNumber": " 16",
-        "question": " If the operation “star” is defined by �� ∗ �� = ���� − �� �� [a star b equals a to the b minus b to the a], which of the following is the largest? ",
+        "question": " If the operation “star” is defined by a ∗ b = a^b − b^a [a star b equals a to the b minus b to the a], which of the following is the largest? ",
         "answer": " Y) 3*4    ",
         "multipleChoiceAnswer": "Y",
         "choices": {
@@ -11257,12 +11257,12 @@ export class QuestionBank {
         "type": "Multiple Choice",
         "category": " MATH ",
         "questionNumber": " 7",
-        "question": " Solve for x over the real numbers: |�� − 5| ≧ −7 [the absolute value of the quantity x minus 5 is greater than or equal to negative 7. ",
+        "question": " Solve for x over the real numbers: |x − 5| ≧ −7 [the absolute value of the quantity x minus 5 is greater than or equal to negative 7. ",
         "answer": " Z) ALL REAL NUMBERS ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " x > -2 ",
-          "X": " �� ≧ −2 and �� ≦ 12 ",
+          "X": " x ≧ −2 and x ≦ 12 ",
           "Y": " Null set ",
           "Z": " All real numbers "
         },
@@ -12006,7 +12006,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 3",
         "question": " The minute hand of a clock is 2 inches long. How many inches does its tip travel in 30 minutes? ",
-        "answer": " 2��  ",
+        "answer": " 2π  ",
         "choices": {},
         "id": 691
       },
@@ -12407,7 +12407,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 15",
-        "question": " Find the value of k for which the quadratic equation x2 - x + k = 0 has a repeated root. ",
+        "question": " Find the value of k for which the quadratic equation x^2 - x + k = 0 has a repeated root. ",
         "answer": " k = ¼  ",
         "choices": {},
         "id": 715
@@ -22559,7 +22559,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 3",
         "question": " Provide the prime factors over the integers for the following expression: x3 + 8 ",
-        "answer": " (x + 2) and (x2 – 2x + 4) (DO NOT ACCEPT (x + 2) times (x2 – 2x + 4)) ",
+        "answer": " (x + 2) and (x^2 – 2x + 4) (DO NOT ACCEPT (x + 2) times (x^2 – 2x + 4)) ",
         "choices": {},
         "id": 1300
       },
@@ -22912,7 +22912,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 13",
-        "question": " Find the surface area, in terms of pi in inches squared, of a closed right circular cylinder given that its radius is 3 inches and its length or height is 10 inches: ",
+        "question": " Find the surface area, in terms of π in inches squared, of a closed right circular cylinder given that its radius is 3 inches and its length or height is 10 inches: ",
         "answer": " 78π (Solution: SA = 2πr2 + 2πrh; SA = 2(π)(32) + 2(π)(3)(10) = 78π) ",
         "choices": {},
         "id": 1321
@@ -23069,13 +23069,13 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 18",
         "question": " Which of the following is the equation of a parabola whose graph opens downward: ",
-        "answer": " W) y = –x2 ",
+        "answer": " W) y = –x^2 ",
         "multipleChoiceAnswer": "W",
         "choices": {
-          "W": " y = –x2 ",
+          "W": " y = –x^2 ",
           "X": " y = x3 ",
-          "Y": " y = x2 + 2 ",
-          "Z": " y = x2 – 2 "
+          "Y": " y = x^2 + 2 ",
+          "Z": " y = x^2 – 2 "
         },
         "id": 1330
       },
@@ -25004,7 +25004,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 6",
-        "question": " Find the solutions of the quadratic equation: x2 - 4x - 12 = 0. ",
+        "question": " Find the solutions of the quadratic equation: x^2 - 4x - 12 = 0. ",
         "answer": " -2, 6  ",
         "choices": {},
         "id": 1449
@@ -25600,7 +25600,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 23",
-        "question": " A cycloid is generated by tracing a point on the edge of a circle as the circle is rolled along a line. The formula for finding the area under a single lobe of this figure is 3πr2 [3 times pi times r squared], where r is the radius of the circle. What fraction of the area of a cycloid generated by a circle of radius r is the area of a cycloid generated by a circle of radius r/2 [r divided by 2]? ",
+        "question": " A cycloid is generated by tracing a point on the edge of a circle as the circle is rolled along a line. The formula for finding the area under a single lobe of this figure is 3πr2 [3 times π times r squared], where r is the radius of the circle. What fraction of the area of a cycloid generated by a circle of radius r is the area of a cycloid generated by a circle of radius r/2 [r divided by 2]? ",
         "answer": " 1/4 ",
         "choices": {},
         "id": 1483
@@ -28886,8 +28886,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 3",
-        "question": " Simplify the expression: -3x + 12x3 – 17x2 + 5x3 – 7x + 11x2. ",
-        "answer": " 17x3 – 6x2 – 10x  ",
+        "question": " Simplify the expression: -3x + 12x3 – 17x^2 + 5x3 – 7x + 11x^2. ",
+        "answer": " 17x3 – 6x^2 – 10x  ",
         "choices": {},
         "id": 1677
       },
@@ -29110,7 +29110,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 10",
-        "question": " Consider the following expression: 5x2 + 16xy – 7y2. What is the coefficient of the second term? ",
+        "question": " Consider the following expression: 5x^2 + 16xy – 7y2. What is the coefficient of the second term? ",
         "answer": " 16 ",
         "choices": {},
         "id": 1690
@@ -32991,7 +32991,7 @@ export class QuestionBank {
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " 7x-5/y = 0 [7 x minus 5 over y equals 0] ",
-          "X": " 3x2 + 4y3 = 9 [3 x squared plus 4 y cubed equals 9] ",
+          "X": " 3x^2 + 4y3 = 9 [3 x squared plus 4 y cubed equals 9] ",
           "Y": " 7x + 11y – 4 = 9x + 22y ",
           "Z": " 3xy = 12 [3 x y equals 12] "
         },
@@ -35654,7 +35654,7 @@ export class QuestionBank {
         "type": "Multiple Choice",
         "category": " MATH ",
         "questionNumber": " 15",
-        "question": " Provided x is a value for which it is defined, simplify the expression ( √8 \t √32)/ (x2 – 4) [the fraction with numerator x times the square root of 8 minus the square root of 32, and denominator x squared minus 4] ",
+        "question": " Provided x is a value for which it is defined, simplify the expression ( √8 \t √32)/ (x^2 – 4) [the fraction with numerator x times the square root of 8 minus the square root of 32, and denominator x squared minus 4] ",
         "answer": " X) (2√2)/(x+2)  ",
         "multipleChoiceAnswer": "X",
         "choices": {
@@ -36478,7 +36478,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 18",
-        "question": " Solve the following equation for x over the real number: (64)2 = 16x2 ",
+        "question": " Solve the following equation for x over the real number: (64)^2 = 16(x^2) ",
         "answer": " 16 and -16    ",
         "choices": {},
         "id": 2122
@@ -37021,7 +37021,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 9",
         "question": " What is the slope of a line passing through the points (16, –10) and (11, 0)? ",
-        "answer": " –2 (Solution: m = y2 – y1/x2 – x1 = (0 + 10)/(11 – 16) = –2) ",
+        "answer": " –2 (Solution: m = y2 – y1/x^2 – x1 = (0 + 10)/(11 – 16) = –2) ",
         "choices": {},
         "id": 2153
       },
@@ -37355,7 +37355,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 19",
         "question": " Expand the following expression, giving your answer in standard binomial form: (5x – 25)2 ",
-        "answer": " 25x2 – 250x + 625 ",
+        "answer": " 25x^2 – 250x + 625 ",
         "choices": {},
         "id": 2173
       },
@@ -38231,7 +38231,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 20",
         "question": " Find the product of the following 2 binomials, giving your answer in standard form: (–x – 3y)(–x + 3y) ",
-        "answer": " x2 – 9y2    ",
+        "answer": " x^2 – 9y2    ",
         "choices": {},
         "id": 2224
       },
@@ -41189,13 +41189,13 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 11",
         "question": " Which of the following inequalities has a finite solution set over the integers? ",
-        "answer": " Z) x2 – 4x + 3 < 0 ",
+        "answer": " Z) x^2 – 4x + 3 < 0 ",
         "multipleChoiceAnswer": "Z",
         "choices": {
-          "W": " x2 + 5x + 6 > 0 ",
+          "W": " x^2 + 5x + 6 > 0 ",
           "X": " |x + 2| > 4 (read as: the absolute value of the quantity x plus 2 is greater than 4) ",
           "Y": " 9x – 7 < 3x + 14 ",
-          "Z": " x2 – 4x + 3 < 0 "
+          "Z": " x^2 – 4x + 3 < 0 "
         },
         "id": 2401
       },
@@ -44888,7 +44888,7 @@ export class QuestionBank {
         "type": "Multiple Choice",
         "category": " MATH ",
         "questionNumber": " 22",
-        "question": " The equation x2      3y2 + 2x   following conic sections? ",
+        "question": " The equation x^2      3y2 + 2x   following conic sections? ",
         "answer": " W) HYPERBOLA ",
         "multipleChoiceAnswer": "W",
         "choices": {
@@ -45131,7 +45131,7 @@ export class QuestionBank {
         "tossUp": true,
         "type": "Multiple Choice",
         "category": " MATH ",
-        "questionNumber": "  4",
+        "questionNumber": "4",
         "question": " Given a figure and its image under a line reflection. The line of reflection can be located using which of the following? ",
         "answer": " W) ONE PERPENDICULAR BISECTOR    ",
         "multipleChoiceAnswer": "W",
@@ -45151,7 +45151,7 @@ export class QuestionBank {
         "tossUp": false,
         "type": "Multiple Choice",
         "category": " ENERGY ",
-        "questionNumber": " 5",
+        "questionNumber": "5",
         "question": " Much attention is being given to solid-state lighting because it can do which of the following? ",
         "answer": " X) REDUCE LIGHTING POWER CONSUMPTION BY ONE FOURTH ",
         "multipleChoiceAnswer": "X",
@@ -45205,8 +45205,9 @@ export class QuestionBank {
         "tossUp": true,
         "type": "Short Answer",
         "category": " MATH ",
-        "questionNumber": "  ANSWER: �� =  6",
-        "question": " If y = 5x – 12, find the inverse of this function. �� + 12 5    ",
+        "questionNumber": "6",
+        "question": " If y = 5x – 12, find the inverse of this function.",
+        "answer": " y = (x + 12) / 5",
         "choices": {},
         "id": 2637
       },
@@ -46303,7 +46304,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 15",
-        "question": " Solve for x in simplest form: x2 = 50. ",
+        "question": " Solve for x in simplest form: x^2 = 50. ",
         "answer": " 5 , -5 ",
         "choices": {},
         "id": 2703
@@ -47067,8 +47068,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 12",
-        "question": " What values cannot be part of the domain for the following function: f( x ) = and denominator open parenthesis, x plus 3, close parenthesis, open parenthesis, x minus 5, close parenthesis]? ",
-        "answer": " -3 AND 5 ��(�� − 2) (�� + 3)(�� − 5)  [f of x equals the fraction with numerator x times the quantity x minus 2  ",
+        "question": " What values cannot be part of the domain for the following function: f( x ) = x(x - 2)/(x + 3)(x - 5) ",
+        "answer": " -3 AND 5  ",
         "choices": {},
         "id": 2746
       },
@@ -49032,7 +49033,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 20",
         "question": " Factor completely: x5 + y5. ",
-        "answer": " x  +  y (x4 x3 y  + x2 y2    xy3   + y4 )    ",
+        "answer": " x  +  y (x4 x3 y  + x^2 y2    xy3   + y4 )    ",
         "choices": {},
         "id": 2861
       },
@@ -49771,7 +49772,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 16",
-        "question": " To which real number is �� 8 equivalent? ",
+        "question": " To which real number is i^8 equivalent? ",
         "answer": " 1 ",
         "choices": {},
         "id": 2901
@@ -50404,7 +50405,7 @@ export class QuestionBank {
           "W": " x – 1 ",
           "X": " x ",
           "Y": " ",
-          "Z": " 1 x2 1 x 1 x −  1  (x) (read as: f inverse of x) equals which of the  "
+          "Z": " 1 x^2 1 x 1 x −  1  (x) (read as: f inverse of x) equals which of the  "
         },
         "id": 2938
       },
@@ -53199,13 +53200,13 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": "  19",
         "question": " Which of the following real-number functions is continuous at x = -1? ",
-        "answer": " Y) x2 + 3x + 5 x2 + 3x - 4  x2 + 3x + 5 x2 + 3x - 4  ",
+        "answer": " Y) (x^2 + 3x + 5) / (x^2 + 3x - 4) ",
         "multipleChoiceAnswer": "Y",
         "choices": {
-          "W": " ",
-          "X": " ",
-          "Y": " 15 x+1 x+1 x3 + 1  [the fraction with numerator x plus 1 and denominator x cubed plus 1]  [the fraction with numerator 15 and denominator x plus 1] [the fraction with numerator x squared plus 3 x plus 5 and denominator x  squared plus 3 x minus 4] ",
-          "Z": " √�� 3 − 7 [the square root of the quantity x cubed minus 7] "
+          "W": " (x + 1) / (x^3 + 1) ",
+          "X": " 15 / (x + 1)",
+          "Y": " (x^2 + 3x + 5) / (x^2 + 3x - 4) ",
+          "Z": " √(x^3 − 7) [the square root of the quantity x cubed minus 7] "
         },
         "id": 3103
       },
@@ -57497,7 +57498,7 @@ export class QuestionBank {
         "type": "Multiple Choice",
         "category": " MATH ",
         "questionNumber": " 24",
-        "question": " How many real numbers b are there such that the equation 3�� + 3−�� = �� [3 to the power of x plus 3 to the power of negative x equals b] has a unique real solution x? ",
+        "question": " How many real numbers b are there such that the equation 3^(x) + 3^(−x) = b [3 to the power of x plus 3 to the power of negative x equals b] has a unique real solution x? ",
         "answer": " X) THERE IS EXACTLY ONE SUCH VALUE OF b ",
         "multipleChoiceAnswer": "X",
         "choices": {
@@ -57517,7 +57518,7 @@ export class QuestionBank {
         "type": "Multiple Choice",
         "category": " MATH ",
         "questionNumber": " 24",
-        "question": " Given a is a fixed real number that is greater than one, how many real numbers b are there such that the equation �� �� + ��−�� = �� [a to the power of x plus a to the power of negative x equals b] has a unique real solution x? ",
+        "question": " Given a is a fixed real number that is greater than one, how many real numbers b are there such that the equation a^x + a^(-x) = b [a to the power of x plus a to the power of negative x equals b] has a unique real solution x? ",
         "answer": " Y) THERE ARE INFINITELY MANY SUCH VALUES OF b    ",
         "multipleChoiceAnswer": "Y",
         "choices": {
@@ -58963,8 +58964,8 @@ export class QuestionBank {
         "answer": " Y) 2p + pq + 2q = 1  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
-          "W": " p2 + 2pq + q2 = 1 ",
-          "X": " p2 + 2pq + q2 = (p + q)2 [p squared plus 2 p q plus q squared equals, open parenthesis, p plus q, close parenthesis, squared] ",
+          "W": " p^2 + 2pq + q^2 = 1 ",
+          "X": " p^2 + 2pq + q^2 = (p + q)^2 [p squared plus 2 p q plus q squared equals, open parenthesis, p plus q, close parenthesis, squared] ",
           "Y": " 2p + pq + 2q = 1 ",
           "Z": " p + q = 1 "
         },
@@ -58980,7 +58981,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 20",
         "question": " Given an ellipse with vertices (10, 0) and (-10, 0) and co-vertices (0, 9) and (0, -9), what is the standard form equation of the ellipse? ",
-        "answer": " �� 2 �� 2 + 100 81  =1  ",
+        "answer": " x^2/100 + y^2/81 = 1  ",
         "choices": {},
         "id": 3447
       },
@@ -65265,7 +65266,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 11",
-        "question": " If |200 − �� | = 10 [the absolute value of the quantity 200 minus x equals 10], what are the possible values for x? ",
+        "question": " If |200 − x| = 10 [the absolute value of the quantity 200 minus x equals 10], what are the possible values for x? ",
         "answer": " 190 AND 210 ",
         "choices": {},
         "id": 3821
@@ -65543,7 +65544,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 19",
-        "question": " Evaluate x] when y = 2 and x = 0. ",
+        "question": " Evaluate 12y/5x when y = 2 and x = 0. ",
         "answer": " UNDEFINED ",
         "choices": {},
         "id": 3837
@@ -65557,8 +65558,8 @@ export class QuestionBank {
         "type": "Multiple Choice",
         "category": " MATH ",
         "questionNumber": " 19",
-        "question": " Between which of the following two whole numbers does √515 [the cube root of 515] fall? ",
-        "answer": " Z) 8 AND 9 3  12�� 5��  [the fraction with numerator 12 y and denominator 5  ",
+        "question": " Between which of the following two whole numbers does [the cube root of 515] fall? ",
+        "answer": " Z) 8 AND 9",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " 5 and 6 ",
@@ -69184,8 +69185,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 4",
-        "question": " Consider the following equation: �� = [y equals open �� 2 parenthesis 24 x minus 36 close parenthesis over x squared]. When y = 3, what are the possible values for x? ",
-        "answer": " 6 AND 2 24�� − 36    ",
+        "question": " Consider the following equation: y = (24x - 36)/x^2 [y equals open parenthesis 24 x minus 36 close parenthesis over x squared]. When y = 3, what are the possible values for x? ",
+        "answer": " 6 AND 2 ",
         "choices": {},
         "id": 4053
       },
@@ -69590,7 +69591,7 @@ export class QuestionBank {
         "type": "Multiple Choice",
         "category": " MATH ",
         "questionNumber": " 16",
-        "question": " The equation + = 1 [x squared over 4 plus y squared over 4 9 9 equals 1] has a graph that is an example of which of the following shapes? ",
+        "question": " The equation x^2/4 + y^2/9  = 1 [x squared over 4 plus y squared over 9 equals 1] has a graph that is an example of which of the following shapes? ",
         "answer": " X) ELLIPSE ",
         "multipleChoiceAnswer": "X",
         "choices": {
@@ -69611,7 +69612,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 16",
         "question": " Eight National Science Bowl contestants meet for the first time. Each shakes the hand of the other seven, except for one pair of contestants who refuse to shake each other’s hands. How many handshakes are exchanged? ",
-        "answer": " 27 �� 2 �� 2    ",
+        "answer": " 27 ",
         "choices": {},
         "id": 4077
       },
@@ -79884,7 +79885,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 4",
-        "question": " Find g(1) [g of 1] when g(a) = 33��−2 [g of a equals 3 to the power of the quantity 3 a minus 2]. ",
+        "question": " Find g(1) [g of 1] when g(a) = 3^(3a − 2) [g of a equals 3 to the power of the quantity 3 a minus 2]. ",
         "answer": " 3  ",
         "choices": {},
         "id": 4689
@@ -79899,7 +79900,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": "  4",
         "question": " Providing your answer in simplest radical form, where does the graph of y = 2x2 – 5x – 1 cross the x-axis? ",
-        "answer": " 5 + √33 4  AND  5 – √33 4    ",
+        "answer": " (5 + √33) / 4  AND  (5 – √33) / 4 ",
         "choices": {},
         "id": 4690
       },
@@ -97779,8 +97780,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 4",
-        "question": " What is the integer value of 105 divided by 103? ",
-        "answer": " 100 (DO NOT ACCEPT: 102)        ",
+        "question": " What is the integer value of 10^5 (10 raised to the power of 5) divided by 10^3 (10 raised to the power of 3)? ",
+        "answer": " 100 (DO NOT ACCEPT: 10^2)",
         "choices": {},
         "id": 5768
       },
