@@ -1043,7 +1043,7 @@ export class QuestionBank {
         "type": "Multiple Choice",
         "category": " MATH ",
         "questionNumber": " 5",
-        "question": " Given the equation x 2 = √x , which of the following conclusions is true? ",
+        "question": " Given the equation x^2 = √x , which of the following conclusions is true? ",
         "answer": " X) THE EQUATION IS TRUE WHEN x = 0 ",
         "multipleChoiceAnswer": "X",
         "choices": {
@@ -27611,7 +27611,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 13",
         "question": " What are the three major climatic zones? ",
-        "answer": " Y) TROPICAL, TEMPERATE, AND POLAR ______________________________________________________ ",
+        "answer": " Y) TROPICAL, TEMPERATE, AND POLAR  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Tropical, subtropical and arctic ",
@@ -34783,7 +34783,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 13",
         "question": " What specific chamber of the heart is responsible for pumping blood to the lungs? ",
-        "answer": " RIGHT VENTRICLE ______________________________________________________ ",
+        "answer": " RIGHT VENTRICLE  ",
         "choices": {},
         "id": 2024
       },
@@ -38397,7 +38397,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 1",
         "question": " What gas essential to human life do plants give off when they photosynthesize? ",
-        "answer": " OXYGEN _________________ ",
+        "answer": " OXYGEN  ",
         "choices": {},
         "id": 2235
       },
@@ -38431,7 +38431,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 2",
         "question": " A person applies for a patent on an engine that is 100% efficient. This application would be rejected because the engine would violate the: ",
-        "answer": " Z) LAWS OF THERMODYNAMICS  \t       ",
+        "answer": " Z) LAWS OF THERMODYNAMICS  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Law of conservation of momentum ",
@@ -38465,7 +38465,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 3",
         "question": " Fossils are most often found in what type of rock? ",
-        "answer": " Y) SEDIMENTARY _________________ ",
+        "answer": " Y) SEDIMENTARY  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Igneous (read as: IG-nee-us) ",
@@ -38499,7 +38499,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 4",
         "question": " ,159.456 to the hundreds’ (read as: hun-DREDS) place. ",
-        "answer": " 63,200  \t       ",
+        "answer": " 63,200  ",
         "choices": {},
         "id": 2241
       },
@@ -38527,7 +38527,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 5",
         "question": " What is the sum of the multiplicative inverse of 2 and the multiplicative inverse of 5 as a fraction in simplest form? ",
-        "answer": " 7/10 _________________ ",
+        "answer": " 7/10  ",
         "choices": {},
         "id": 2243
       },
@@ -38555,7 +38555,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 6",
         "question": " Which of the following elements is NOT a noble gas? ",
-        "answer": " Z) BROMINE  \t       ",
+        "answer": " Z) BROMINE  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Xenon ",
@@ -38589,7 +38589,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 7",
         "question": " What type of energy production does NOT require a turbine with a shaft to spin a generator in order to create electricity? ",
-        "answer": " Y) HYDROGEN FUEL CELLS _________________ ",
+        "answer": " Y) HYDROGEN FUEL CELLS  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Geothermal power ",
@@ -38623,7 +38623,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 8",
         "question": " For an environment where a long-lasting toxin has been introduced, in which organism of a food chain will you expect to find the least accumulation of the toxin? ",
-        "answer": " W) PRODUCER  \t       ",
+        "answer": " W) PRODUCER  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Producer ",
@@ -38657,7 +38657,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 9",
         "question": " Deposition of primarily which compound leads to the formation of stalactites and stalagmites in caves? ",
-        "answer": " CALCIUM CARBONATE _________________ ",
+        "answer": " CALCIUM CARBONATE  ",
         "choices": {},
         "id": 2251
       },
@@ -38691,7 +38691,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 10",
         "question": " Which of the following can cause an increase in the amount of acid rain? ",
-        "answer": " Y) INCREASED BURNING OF FOSSIL FUELS  \t       ",
+        "answer": " Y) INCREASED BURNING OF FOSSIL FUELS  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Decrease in the ozone layer ",
@@ -38731,7 +38731,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 11",
         "question": " Biodiesel, which is another form of biomass energy, is obtained from: ",
-        "answer": " W) FOOD PRODUCTS, INCLUDING VEGETABLE OILS AND ANIMAL FATS _________________ ",
+        "answer": " W) FOOD PRODUCTS, INCLUDING VEGETABLE OILS AND ANIMAL FATS  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Food products, including vegetable oils and animal fats ",
@@ -38765,7 +38765,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 12",
         "question": " Changes in length of daylight are primarily a result of: ",
-        "answer": " X) CHANGE IN THE DIRECTION THE EARTH TILTS RELATIVE TO THE SUN  \t       ",
+        "answer": " X) CHANGE IN THE DIRECTION THE EARTH TILTS RELATIVE TO THE SUN  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Change in the distance Earth is from the Sun ",
@@ -38805,7 +38805,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 13",
         "question": " Imagine if you could weigh electrons and protons on a simple balance. How many electrons do you need to balance a single proton? ",
-        "answer": " W) 18 hundred _________________ ",
+        "answer": " W) 18 hundred  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " 18 hundred ",
@@ -38839,7 +38839,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 14",
         "question": " The largest volcano on Mars is about 15 miles above the surrounding planes. What is the name of this volcano? ",
-        "answer": " OLYMPUS MONS  \t       ",
+        "answer": " OLYMPUS MONS  ",
         "choices": {},
         "id": 2261
       },
@@ -38867,7 +38867,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 15",
         "question": " Providing your answer as a decimal to the nearest tenth, evaluate 6x + 3 − 5x  (read as: open absolute value, open parenthesis 6x + 3 close parenthesis divided by  -5x, close absolute value) for x = 6 . ",
-        "answer": " 1.3 _________________ ",
+        "answer": " 1.3  ",
         "choices": {},
         "id": 2263
       },
@@ -38895,7 +38895,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 16",
         "question": " A red ball has a mass of 2 grams and a volume of 8 cubic centimeters. A yellow ball has a mass of 5 grams and a volume of 2 cubic centimeters. When both balls are placed into a bucket of water, which of the following is true? ",
-        "answer": " X) THE RED BALL FLOATS AND THE YELLOW BALL SINKS  \t       ",
+        "answer": " X) THE RED BALL FLOATS AND THE YELLOW BALL SINKS  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " The yellow ball floats and the red ball sinks ",
@@ -38935,7 +38935,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 17",
         "question": " Which of the following is the scientific class to which spider belong? ",
-        "answer": " Y) ARACHNID _________________ ",
+        "answer": " Y) ARACHNID  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Vertebrate ",
@@ -38969,7 +38969,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 18",
         "question": " Express (1/5 + 3.4) 2  (read as: open parenthesis one fifth plus 3.4 close  parenthesis divided by two) as a fraction in lowest terms. ",
-        "answer": " 9/5  \t       ",
+        "answer": " 9/5  ",
         "choices": {},
         "id": 2269
       },
@@ -38997,7 +38997,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 19",
         "question": " A metal coin and a plastic coin are heated to the same temperature. The two coins have the same size and shape, are dropped into the same tub of cold water at the same time, and are left for 30 seconds. Which coin will have the lower temperature? ",
-        "answer": " W) METAL COIN _________________ ",
+        "answer": " W) METAL COIN  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Metal coin ",
@@ -39037,7 +39037,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 20",
         "question": " What is the SI unit of force? ",
-        "answer": " NEWTON  \t       ",
+        "answer": " NEWTON  ",
         "choices": {},
         "id": 2273
       },
@@ -39099,7 +39099,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 22",
         "question": " Which structural component of the cell cytoskeleton has alpha and beta subunits and is involved with intracellular transport? ",
-        "answer": " MICROTUBULES  \t       ",
+        "answer": " MICROTUBULES  ",
         "choices": {},
         "id": 2277
       },
@@ -39133,7 +39133,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 23",
         "question": " Using current technologies, which of the following sources of energy is nonrenewable? ",
-        "answer": " Y) NUCLEAR _________________ ",
+        "answer": " Y) NUCLEAR  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Solar ",
@@ -39173,7 +39173,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 24",
         "question": " Thousands of rivers drain the continental United States. These rivers primarily drain into which three bodies of water? ",
-        "answer": " GULF OF MEXICO, ATLANTIC OCEAN (ACCEPT: GULF OF ST. LAWRENCE), PACIFIC OCEAN (ACCEPT: SEA OF CORTEZ, GULF OF CALIFORNIA)  \t       ",
+        "answer": " GULF OF MEXICO, ATLANTIC OCEAN (ACCEPT: GULF OF ST. LAWRENCE), PACIFIC OCEAN (ACCEPT: SEA OF CORTEZ, GULF OF CALIFORNIA)  ",
         "choices": {},
         "id": 2281
       },
@@ -39221,7 +39221,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 1",
         "question": " A number is obtained by doubling an original value, then doubling that result, and repeating that doubling process 6 times. If the final value is 320, how large was the original number? ",
-        "answer": " 5 _________________ ",
+        "answer": " 5  ",
         "choices": {},
         "id": 2284
       },
@@ -39249,7 +39249,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 2",
         "question": " When plant scientists began crossing different pure lines, they noticed that the hybrid plants that resulted were: ",
-        "answer": " Z) MORE VIGOROUS THAN THEIR PARENTS   \t       ",
+        "answer": " Z) MORE VIGOROUS THAN THEIR PARENTS   ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Less vigorous than their parents ",
@@ -39289,7 +39289,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 3",
         "question": " Ultrasound is acoustic energy in the form of waves with a frequency above the human hearing range. Which of the following statements does NOT reflect a use of ultrasonic energy? ",
-        "answer": " Y) TO MAKE IPOD SOUND QUALITY BETTER _________________ ",
+        "answer": " Y) TO MAKE IPOD SOUND QUALITY BETTER  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " To observe the condition of a fetus before birth ",
@@ -39329,7 +39329,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 4",
         "question": " What mineral characteristic is defined as a mineral’s ability to break along preexisting planes of weakness? ",
-        "answer": " CLEAVAGE   \t       ",
+        "answer": " CLEAVAGE   ",
         "choices": {},
         "id": 2290
       },
@@ -39363,7 +39363,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 5",
         "question": " What is the surface area, in terms of π, of a cylinder with a radius of π and height of π? ",
-        "answer": " 4 π 3 _________________ ",
+        "answer": " 4 π 3  ",
         "choices": {},
         "id": 2292
       },
@@ -39397,7 +39397,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 6",
         "question": " Name the 4 nucleic acids found in DNA. ",
-        "answer": " ADENINE, GUANINE, THYMINE, CYTOSINE   \t       ",
+        "answer": " ADENINE, GUANINE, THYMINE, CYTOSINE   ",
         "choices": {},
         "id": 2294
       },
@@ -39425,7 +39425,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 7",
         "question": " A 25 watt lamp has a resistance of 4 ohms. What is the voltage applied across the lamp? ",
-        "answer": " 10 _________________ ",
+        "answer": " 10  ",
         "choices": {},
         "id": 2296
       },
@@ -39459,7 +39459,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 8",
         "question": " In some regions of the U.S., sinkholes form in the bedrock when rocks are naturally dissolved by circulating ground water. Name a rock type which can dissolve, collapsing to form spaces and caverns deep underground. ",
-        "answer": " EVAPORITE OR CARBONATE   \t       ",
+        "answer": " EVAPORITE OR CARBONATE   ",
         "choices": {},
         "id": 2298
       },
@@ -39487,7 +39487,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 9",
         "question": " If Jen ran t + 3 kilometers and Susan ran half as much as Jen and biked twice as much as Jen ran, which expression represents their total kilometers of exercise? ",
-        "answer": " Y) 3.5(t + 3) _________________ ",
+        "answer": " Y) 3.5(t + 3)  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " 2.5(t + 3) (read as: 2.5 times the quantity t plus 3) ",
@@ -39527,7 +39527,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 10",
         "question": " What type of igneous rock forms underground, cools slowly, and can be identified by its large grain sizes and phaneritic texture? ",
-        "answer": " PLUTONIC   \t       ",
+        "answer": " PLUTONIC   ",
         "choices": {},
         "id": 2302
       },
@@ -39555,7 +39555,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 11",
         "question": " The secret to the prevention of oxidation is to provide a layer of protection between the exposed material and the air. Which of the following is NOT an example of a process used to prevent oxidation? ",
-        "answer": " W) ANODIZING ALUMINUM _________________ ",
+        "answer": " W) ANODIZING ALUMINUM  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Anodizing aluminum ",
@@ -39589,7 +39589,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 12",
         "question": " What is the main component of volcanic gas? ",
-        "answer": " X) STEAM   \t       ",
+        "answer": " X) STEAM   ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Sulfur Dioxide ",
@@ -39629,7 +39629,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 13",
         "question": " You go to the doctor because you have a sore throat. She looks at your throat and sympathizes, then says, “Go home and rest, you’ll beat that virus in no time!” She does NOT write a prescription for antibiotics, however, because: ",
-        "answer": " W) ANTIBIOTICS KILL BACTERIA AND YOU HAVE A VIRAL INFECTION _________________ ",
+        "answer": " W) ANTIBIOTICS KILL BACTERIA AND YOU HAVE A VIRAL INFECTION  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Antibiotics kill bacteria and you have a viral infection ",
@@ -39709,7 +39709,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 15",
         "question": " Purple martins are the largest member of the swallow family in North America. Which of the following is NOT true about purple martins? ",
-        "answer": " Z) ONLY THE FEMALE FEEDS THEIR YOUNG _________________ ",
+        "answer": " Z) ONLY THE FEMALE FEEDS THEIR YOUNG  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " They are monogamous ",
@@ -39749,7 +39749,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 16",
         "question": " Name the phenomenon that occurs when light is refracted by layers of air which have different temperatures and produce a distorted image. ",
-        "answer": " A MIRAGE   \t       ",
+        "answer": " A MIRAGE   ",
         "choices": {},
         "id": 2314
       },
@@ -39777,7 +39777,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 17",
         "question": " Which of the following statements is NOT true about the Apatosaurus? ",
-        "answer": " W) IT WAS AN OMNIVORE _________________ ",
+        "answer": " W) IT WAS AN OMNIVORE  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " It was an omnivore ",
@@ -39811,7 +39811,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 18",
         "question": " What is the chemical name for the compound Cd(MnO4)2? ",
-        "answer": " CADMIUM PERMANGANATE   \t       ",
+        "answer": " CADMIUM PERMANGANATE   ",
         "choices": {},
         "id": 2318
       },
@@ -39839,7 +39839,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 19",
         "question": " Rank the seven continents in order from largest to smallest area. ",
-        "answer": " ASIA, AFRICA, NORTH AMERICA, SOUTH AMERICA, ANTARCTICA, EUROPE, AUSTRALIA _________________ ",
+        "answer": " ASIA, AFRICA, NORTH AMERICA, SOUTH AMERICA, ANTARCTICA, EUROPE, AUSTRALIA  ",
         "choices": {},
         "id": 2320
       },
@@ -39873,7 +39873,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 20",
         "question": " If you had a stem-and-leaf plot in which the first stem 1 had leaves of 2, 2, and 4; the second stem 2 had leaves of 1, 4, and 5; and the third stem 3 had leaves of 0, 0, and 1; what is the median? ",
-        "answer": " 24   \t       ",
+        "answer": " 24   ",
         "choices": {},
         "id": 2322
       },
@@ -39901,7 +39901,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 21",
         "question": " In millimeters of mercury, what is the standard atmospheric pressure at sea level? ",
-        "answer": " 760 _________________ ",
+        "answer": " 760  ",
         "choices": {},
         "id": 2324
       },
@@ -39929,7 +39929,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 22",
         "question": " What are pinocytosis (read as: py-noh-si-TŌE-sis), phagocytosis (read as: fah-goh-sy-TŌE-sis), and exocytosis (read as: ehk-sōe -sy-TŌE-sis ) types of? ",
-        "answer": " ACTIVE TRANSPORT   \t       ",
+        "answer": " ACTIVE TRANSPORT   ",
         "choices": {},
         "id": 2326
       },
@@ -39957,7 +39957,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 23",
         "question": " Point D with coordinates (-1, -3) is reflected over the y-axis. The result is then reflected through the line y = x. What are the coordinates of the first image of the point D? ",
-        "answer": " (-3, 1) _________________ ",
+        "answer": " (-3, 1)  ",
         "choices": {},
         "id": 2328
       },
@@ -39991,7 +39991,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 24",
         "question": " Fiberglass insulation is one option for home insulation. It can be placed in attics, within outside walls, under floors, over unheated garages, and in other locations. Which of the following is NOT an advantage of fiberglass insulation? ",
-        "answer": " Y) IT IS ENTIRELY MADE FROM RECYCLED MATERIALS   \t       ",
+        "answer": " Y) IT IS ENTIRELY MADE FROM RECYCLED MATERIALS   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " It reduces heat flow in and out of the home, so less energy is used for heating and cooling ",
@@ -40045,7 +40045,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 1",
         "question": " What type of nucleic acid is translated into a protein sequence? ",
-        "answer": " mRNA (ACCEPT: MESSENGER RNA) _________________ ",
+        "answer": " mRNA (ACCEPT: MESSENGER RNA)",
         "choices": {},
         "id": 2333
       },
@@ -40079,7 +40079,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 2",
         "question": " Which of the following processes is not part of the water cycle? ",
-        "answer": " Y) DISTILLATION   \t       ",
+        "answer": " Y) DISTILLATION   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Transpiration ",
@@ -40119,7 +40119,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 3",
         "question": " Name the current geologic era. ",
-        "answer": " CENOZOIC _________________ ",
+        "answer": " CENOZOIC ",
         "choices": {},
         "id": 2337
       },
@@ -40132,8 +40132,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 4",
-        "question": " Expressing your answer in exponential form, simplify: (8 ) (8 ) (read as: 8 to the fifth times 8 to the fifth). ",
-        "answer": " ",
+        "question": " Expressing your answer in exponential form, simplify: (8^5) (8^5) (read as: 8 to the fifth times 8 to the fifth). ",
+        "answer": "8^10",
         "choices": {},
         "id": 2338
       },
@@ -40146,8 +40146,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 4",
-        "question": " Express the following in simplest exponential form: ( ) (3 +2)³ ( ) (read as: 6 to the fourth times the quantity 3 plus 2 cubed times 6 cubed). 5 5  ",
-        "answer": " (67 ) (53 ) ALSO ACCEPT: (27)(37)(53)   \t       ",
+        "question": " Express the following in simplest exponential form: (6^4) (3 +2)^3 (6^3) (read as: 6 to the fourth times the quantity 3 plus 2 cubed times 6 cubed). 5 5  ",
+        "answer": " (6^7)(5^3) ALSO ACCEPT: (2^7)(3^7)(5^3) ",
         "choices": {},
         "id": 2339
       },
@@ -40175,7 +40175,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 5",
         "question": " If you see part of the moon one night, then three nights later you can see more of it, you know that the moon is: ",
-        "answer": " X) WAXING ________________ ",
+        "answer": " X) WAXING  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Waning ",
@@ -40215,7 +40215,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 6",
         "question": " Which of the following elements has the largest atomic weight? ",
-        "answer": " W) ALUMINUM   \t       ",
+        "answer": " W) ALUMINUM   ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Aluminum ",
@@ -40255,7 +40255,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 7",
         "question": " A vinaigrette salad dressing is an example of: ",
-        "answer": " X) EMULSION _________________ ",
+        "answer": " X) EMULSION  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Solution ",
@@ -40289,7 +40289,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 8",
         "question": " Which of the following is NOT a mechanism plants use to disperse their seeds? ",
-        "answer": " Y) APOMIXIS   \t       ",
+        "answer": " Y) APOMIXIS   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Ingestion by animals ",
@@ -40329,7 +40329,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 9",
         "question": " Which of the following best describes what kinds of rocks are formed because of plate tectonics? ",
-        "answer": " X) IGNEOUS, METAMORPHIC, AND SEDIMENTARY _________________ ",
+        "answer": " X) IGNEOUS, METAMORPHIC, AND SEDIMENTARY  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Volcanic rocks only ",
@@ -40363,7 +40363,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 10",
         "question": " Which of the following best explains why a tsunami produced by an underwater earthquake might be deadly? ",
-        "answer": " Z) THE WAVE ACQUIRES TREMENDOUS ENERGY WHEN THERE IS A SHALLOW FOCUS AND HIGH MAGNITUDE EARTHQUAKE IN DEEP WATER   \t       ",
+        "answer": " Z) THE WAVE ACQUIRES TREMENDOUS ENERGY WHEN THERE IS A SHALLOW FOCUS AND HIGH MAGNITUDE EARTHQUAKE IN DEEP WATER   ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " The wave acquires a tremendous velocity if the depth of the earthquake is small ",
@@ -40403,7 +40403,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 11",
         "question": " An electric vehicle has two stages. If the first stage, the battery, has an efficiency of 90% and the second stage, the inverter, has an efficiency of 80%, calculate the approximate overall efficiency of the vehicle to the nearest percent. ",
-        "answer": " 72% _________________ ",
+        "answer": " 72%  ",
         "choices": {},
         "id": 2353
       },
@@ -40431,7 +40431,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 12",
         "question": " Available incoming solar radiation is known as: ",
-        "answer": " Z) SOLAR INSOLATION   \t       ",
+        "answer": " Z) SOLAR INSOLATION   ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Solar absorption ",
@@ -40471,7 +40471,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 13",
         "question": " Which of the following does NOT include a chemical reaction? ",
-        "answer": " Z) COMBINING COPPER AND TIN TO MAKE BRONZE _________________ ",
+        "answer": " Z) COMBINING COPPER AND TIN TO MAKE BRONZE  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Making caramel from sugar ",
@@ -40505,7 +40505,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 14",
         "question": " Why is it winter in the northern hemisphere when it is summer in the southern hemisphere? ",
-        "answer": " X) THE NORTHERN HEMISPHERE IS TILTED AWAY FROM THE SUN WHEN THE SOUTHERN HEMISPHERE IS TILTED TOWARD THE SUN   \t       ",
+        "answer": " X) THE NORTHERN HEMISPHERE IS TILTED AWAY FROM THE SUN WHEN THE SOUTHERN HEMISPHERE IS TILTED TOWARD THE SUN   ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " The manner in which the Earth rotates regulates the seasons on Earth ",
@@ -40539,7 +40539,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 15",
         "question": " Stating your answer as an improper fraction in simplest form, if 17s + 8 is 9 more than 6s - 14, then what is the value of s? ",
-        "answer": " -13/11 _________________ ",
+        "answer": " -13/11  ",
         "choices": {},
         "id": 2361
       },
@@ -40567,7 +40567,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 16",
         "question": " Which of the following elements is often added to steel to make it harder? ",
-        "answer": " Y) CHROMIUM   \t       ",
+        "answer": " Y) CHROMIUM   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Aluminum ",
@@ -40601,7 +40601,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 17",
         "question": " A brown mouse and a white mouse mate and have a litter of babies which are all brown. Assuming the trait is controlled by a simple dominant/recessive gene; use the appropriate scientific names to describe the genotypes for the coat color in each of the parents. ",
-        "answer": " HOMOZYGOUS DOMINANT AND HOMOZYGOUS RECESSIVE _________________ ",
+        "answer": " HOMOZYGOUS DOMINANT AND HOMOZYGOUS RECESSIVE  ",
         "choices": {},
         "id": 2365
       },
@@ -40629,7 +40629,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 18",
         "question": " Cal has 88 feet of fencing to make a rectangular pen for his dog. Which of the following respective lengths and widths in feet will give him the largest area? ",
-        "answer": " W) 22 by 22   \t       ",
+        "answer": " W) 22 by 22   ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " 22 by 22 ",
@@ -40669,7 +40669,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 19",
         "question": " Gross production is the amount of energy acquired while net production is the energy available for the next organism in the food chain. By name or number, identify which of the following organisms has the highest net production of energy: 1) zooplankton, 2) phytoplankton, 3) fish, or 4) bear. ",
-        "answer": " PHYTOPLANKTON (ACCEPT: 2) _________________ ",
+        "answer": " PHYTOPLANKTON (ACCEPT: 2)  ",
         "choices": {},
         "id": 2369
       },
@@ -40697,7 +40697,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 20",
         "question": " Name two allotropes of oxygen. ",
-        "answer": " O2 AND O3 (ACCEPT: DIATOMIC OXYGEN OR DIOXYGEN AND OZONE)   \t       ",
+        "answer": " O2 AND O3 (ACCEPT: DIATOMIC OXYGEN OR DIOXYGEN AND OZONE)   ",
         "choices": {},
         "id": 2371
       },
@@ -40725,7 +40725,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 21",
         "question": " A right circular cone has a 6-inch radius, a slant height of 10 inches and a perpendicular height of 8 inches. If we remove the base and then cut the cone along the slant height and open it out flat, what is the radius in inches of the formed sector? ",
-        "answer": " 10 _________________ ",
+        "answer": " 10  ",
         "choices": {},
         "id": 2373
       },
@@ -40753,7 +40753,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 22",
         "question": " Which of the following is NOT an accurate representation of cladograms? ",
-        "answer": " X) THEY ILLUSTRATE THE BENEFITS PROVIDED BY THE DERIVED CHARACTERISTIC   \t       ",
+        "answer": " X) THEY ILLUSTRATE THE BENEFITS PROVIDED BY THE DERIVED CHARACTERISTIC   ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " They emphasize the sequence in which derived characteristics arose ",
@@ -40787,7 +40787,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 23",
         "question": " While driving down the freeway, a bug splatters on your windshield. Which of the following is true? ",
-        "answer": " Y) BOTH THE CAR AND THE BUG EXPERIENCE THE SAME ABSOLUTE CHANGE IN MOMENTUM _________________ ",
+        "answer": " Y) BOTH THE CAR AND THE BUG EXPERIENCE THE SAME ABSOLUTE CHANGE IN MOMENTUM  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " The bug experiences more of an absolute change in momentum ",
@@ -40821,7 +40821,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 24",
         "question": " What type of front forms when a cold front overtakes a warm front? ",
-        "answer": " OCCLUDED FRONT   \t       ",
+        "answer": " OCCLUDED FRONT   ",
         "choices": {},
         "id": 2379
       },
@@ -41243,12 +41243,12 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 12",
         "question": " Which of the following temperatures is the warmest? ",
-        "answer": " W) 31o CELSIUS    ",
+        "answer": " W) 31 degrees CELSIUS    ",
         "multipleChoiceAnswer": "W",
         "choices": {
-          "W": " 31o Celsius ",
-          "X": " 74o Fahrenheit ",
-          "Y": " 84o Fahrenheit ",
+          "W": " 31 degrees Celsius ",
+          "X": " 74 degrees Fahrenheit ",
+          "Y": " 84 degrees Fahrenheit ",
           "Z": " 303 Kelvin "
         },
         "id": 2404
@@ -41537,7 +41537,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 21",
         "question": " What is the term for the process by which a gas under pressure escapes through an opening that is much smaller than the distance between gas molecules? ",
-        "answer": " EFFUSION ______________________________________________________ ",
+        "answer": " EFFUSION  ",
         "choices": {},
         "id": 2422
       },
@@ -41808,7 +41808,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 5",
-        "question": " What type of reaction is 2Al + Fe 2 O 3 yields 2Fe + Al 2 O 3 ? ",
+        "question": " What type of reaction is 2Al + Fe2O3 yields 2Fe + Al2O3 ? ",
         "answer": " REPLACEMENT (ACCEPT: SINGLE REPLACEMENT OR DISPLACEMENT) ",
         "choices": {},
         "id": 2438
@@ -43359,7 +43359,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 1",
         "question": " An object suspended above the ground by a string is acted upon by: ",
-        "answer": " X) TENSION THAT EQUALS ITS WEIGHT _________________ ",
+        "answer": " X) TENSION THAT EQUALS ITS WEIGHT  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " No net tension ",
@@ -43393,7 +43393,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 2",
         "question": " Name by words or numbers all of the following four organelles found in plant cells that may have arisen as a result of a symbiotic relationship with prokaryotes (read as: prōe-KAHR-ee- ōets): 1) chloroplast, 2) endoplasmic reticulum (read as: ri-TI-kyuh-luhm), 3) ribosome (read as: RY-boh-sōem), or 4) mitochondria (read as: my-tohKOHN-dree-ah)? ",
-        "answer": " CHLOROPLAST AND MITOCHONDRIA (ACCEPT: 1, 4)   \t       ",
+        "answer": " CHLOROPLAST AND MITOCHONDRIA (ACCEPT: 1, 4)   ",
         "choices": {},
         "id": 2531
       },
@@ -43427,7 +43427,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 3",
         "question": " Kohlrabi, asparagus, cauliflower, and broccoli are all edible examples of which part of the plant? ",
-        "answer": " STEM _________________ ",
+        "answer": " STEM  ",
         "choices": {},
         "id": 2533
       },
@@ -43461,7 +43461,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 4",
         "question": " What acid is formed when carbon dioxide is dissolved into water? ",
-        "answer": " CARBONIC ACID   \t       ",
+        "answer": " CARBONIC ACID   ",
         "choices": {},
         "id": 2535
       },
@@ -43489,7 +43489,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 5",
         "question": " A fault in the Earth's surface in which the hanging wall has moved down relative to the footwall is called: ",
-        "answer": " Z) NORMAL FAULT _________________ ",
+        "answer": " Z) NORMAL FAULT  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Downthrust fault ",
@@ -43529,7 +43529,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 6",
         "question": " When the Earth’s interior finally cools, which of the following will stop? ",
-        "answer": " Y) PLATE TECTONICS   \t       ",
+        "answer": " Y) PLATE TECTONICS   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Water cycle ",
@@ -43569,7 +43569,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 7",
         "question": " Which of the following does not belong to the alkaline earth metal group? ",
-        "answer": " Y) POTASSIUM _________________ ",
+        "answer": " Y) POTASSIUM  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Magnesium ",
@@ -43603,7 +43603,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 8",
         "question": " Powerful magnets are usually alloys of platinum or neodymium and what other metal? ",
-        "answer": " COBALT   \t       ",
+        "answer": " COBALT   ",
         "choices": {},
         "id": 2543
       },
@@ -43631,7 +43631,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 9",
         "question": " Without a greenhouse effect, what would be Earth’s approximate average temperature in degrees Celsius? ",
-        "answer": " W) -18 _________________ ",
+        "answer": " W) -18  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " -18 ",
@@ -43665,7 +43665,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 10",
         "question": " If points A, B, and C create an equilateral triangle with side lengths of 4 units, and D is the image of C by a reflection across the line (AB), then what is the area of parallelogram ACBD in square units? ",
-        "answer": " X) 8   \t       ",
+        "answer": " X) 8   ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " 8 ",
@@ -43699,7 +43699,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 11",
         "question": " The station KDOE is broadcasting at 1000 kiloHertz. What is its broadcasting wavelength in meters? ",
-        "answer": " 300 _________________ ",
+        "answer": " 300  ",
         "choices": {},
         "id": 2549
       },
@@ -43727,7 +43727,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 12",
         "question": " What kind of wetland is characterized by spongy peat deposits, acidic waters, and a floor covered by a thick carpet of sphagnum (read as: SFAHGnuhm) moss? ",
-        "answer": " BOG   \t       ",
+        "answer": " BOG   ",
         "choices": {},
         "id": 2551
       },
@@ -43755,7 +43755,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 13",
         "question": " Give an algebraic equation to express the following situation: A certain tree is 6 feet tall at the very beginning of spring, and grows 2 inches per day during the spring and summer. Use n to represent the number of days, and h for the tree’s total height in feet. ",
-        "answer": " (ACCEPT: 6h = 36 + n)  _________________ ",
+        "answer": " (ACCEPT: 6h = 36 + n)   ",
         "choices": {},
         "id": 2553
       },
@@ -43789,7 +43789,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 14",
         "question": " Bob can either raise a crate 4 feet using a pulley or push a crate up a 4 foot tall ramp. If using the pulley takes 5 seconds and using the ramp takes 10 seconds, which method requires greater average power? ",
-        "answer": " W) THE PULLEY   \t       ",
+        "answer": " W) THE PULLEY   ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " The pulley ",
@@ -43823,7 +43823,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 15",
         "question": " The ratio of the amount of water vapor in the air to the amount required to saturate the air is: ",
-        "answer": " Y) RELATIVE HUMIDITY _________________ ",
+        "answer": " Y) RELATIVE HUMIDITY  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Specific humidity ",
@@ -43857,7 +43857,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 16",
         "question": " You are going to meet a friend at a movie theater which is 4 miles from your house. You are riding your bike at an average rate of 10 miles per hour. Your friend lives 1.5 miles from the movie theater and walks at an average rate of 3 miles per hour. How many minutes ahead of you should your friend leave so that you meet at the movie theater at the same time? ",
-        "answer": " 6   \t       ",
+        "answer": " 6   ",
         "choices": {},
         "id": 2559
       },
@@ -43891,7 +43891,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 17",
         "question": " By name or number, identify all the places on your body where would you find elastic cartilage: 1) outer ear, 2) epiglottis, 3) nose, or 4) the disks between your vertebrae? ",
-        "answer": " OUTER EAR AND EPIGLOTTIS (ACCEPT: 1 AND 2) _________________ ",
+        "answer": " OUTER EAR AND EPIGLOTTIS (ACCEPT: 1 AND 2)  ",
         "choices": {},
         "id": 2561
       },
@@ -43925,7 +43925,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 18",
         "question": " The only way for a bird to receive an electric shock when touching power lines at the same voltage and phasing is to: ",
-        "answer": " Y) HAVE ONE LEG TOUCH A POWER LINE AND THE OTHER LEG TOUCH THE GROUND   \t       ",
+        "answer": " Y) HAVE ONE LEG TOUCH A POWER LINE AND THE OTHER LEG TOUCH THE GROUND   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Touch the box where a transformer is enclosed ",
@@ -43965,7 +43965,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 19",
         "question": " Consider the following facts: Neptune is greater than 17 times more massive than Earth and orbits the Sun at less than 20% of the speed that Earth travels in its orbit. Also, Neptune is spinning almost 6 times faster than Earth. How does Neptune’s day length compare to Earth’s? ",
-        "answer": " IT IS SHORTER THAN AN EARTH DAY _________________ ",
+        "answer": " IT IS SHORTER THAN AN EARTH DAY  ",
         "choices": {},
         "id": 2565
       },
@@ -43999,7 +43999,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 20",
         "question": " Sara’s mom is recovering the dining room chair seats. The measurement of a seat is 12 inches by 14 inches. What would the area of the fabric be, in square inches, if an extra border of two inches is needed around the square in order to cover the seat? ",
-        "answer": " 288   \t       ",
+        "answer": " 288   ",
         "choices": {},
         "id": 2567
       },
@@ -44027,7 +44027,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 21",
         "question": " How is the condition Down syndrome genetically identified? ",
-        "answer": " TRISOMY (ACCEPT: THREE COPIES) OF THE 21ST AUTOSOMAL CHROMOSOME (ACCEPT: FRAGILE X, MISSING PART OF THE X CHROMOSOME) _________________ ",
+        "answer": " TRISOMY (ACCEPT: THREE COPIES) OF THE 21ST AUTOSOMAL CHROMOSOME (ACCEPT: FRAGILE X, MISSING PART OF THE X CHROMOSOME)  ",
         "choices": {},
         "id": 2569
       },
@@ -44061,7 +44061,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 22",
         "question": " Which of the following geologic periods is the oldest? ",
-        "answer": " W) SILURIAN   \t       ",
+        "answer": " W) SILURIAN   ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Silurian ",
@@ -44095,7 +44095,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 23",
         "question": " Which of the following is NOT an SI unit? ",
-        "answer": " Y) LITER _________________ ",
+        "answer": " Y) LITER  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Meter ",
@@ -44135,7 +44135,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 24",
         "question": " Which of the following graphs could represent a negative correlation? ",
-        "answer": " W) A STRAIGHT LINE PASSING THROUGH (0, 5) AND (5, 1)   \t       ",
+        "answer": " W) A STRAIGHT LINE PASSING THROUGH (0, 5) AND (5, 1)   ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " A straight line passing through (0, 5) and (5, 1) ",
@@ -45855,7 +45855,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 1",
         "question": " For an outlet with a voltage of 120, calculate the voltage in volts if the voltage is 30% over the usual value. ",
-        "answer": " 156 _________________ ",
+        "answer": " 156  ",
         "choices": {},
         "id": 2676
       },
@@ -45889,7 +45889,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 2",
         "question": " If you shine white light through two linear polarizing filters that have their directions of polarizations perpendicular to one another, what will you observe about the light at the other end? ",
-        "answer": " NO LIGHT (ACCEPT: NOTHING)   \t       ",
+        "answer": " NO LIGHT (ACCEPT: NOTHING)   ",
         "choices": {},
         "id": 2678
       },
@@ -45917,7 +45917,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 3",
         "question": " Name the body system to which the trachea belongs. ",
-        "answer": " RESPIRATORY _________________ ",
+        "answer": " RESPIRATORY  ",
         "choices": {},
         "id": 2680
       },
@@ -45951,7 +45951,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 4",
         "question": " Which of the following statements is NOT true about Mercury? ",
-        "answer": " Y) MERCURY HAS NO MAGNETIC FIELD   \t       ",
+        "answer": " Y) MERCURY HAS NO MAGNETIC FIELD   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Mercury is the second densest planet in the solar system ",
@@ -45985,7 +45985,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 5",
         "question": " What is the equation, in slope intercept form, of the line perpendicular to the line y = 3x + 4, that passes through the point (-5, 7)? ",
-        "answer": " y = x+ (ACCEPT: y = x+5 )  _________________ ",
+        "answer": " y = x+ (ACCEPT: y = x+5 )   ",
         "choices": {},
         "id": 2684
       },
@@ -46019,7 +46019,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 6",
         "question": " Matilda plays an instrument which produces a higher pitch than the instrument her friend Matt plays. What can we say about the sound waves of Matilda's music? ",
-        "answer": " Y) MATILDA'S WAVE PEAKS ARE CLOSER TOGETHER THAN MATT'S   \t       ",
+        "answer": " Y) MATILDA'S WAVE PEAKS ARE CLOSER TOGETHER THAN MATT'S   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Matilda's wave peaks are farther apart than Matt's ",
@@ -46053,7 +46053,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 7",
         "question": " Name the first amino acid encoded by all eukaryotic (read as: yuh-KEHR-ee-ōetik) mRNAs. ",
-        "answer": " METHIONINE _________________ ",
+        "answer": " METHIONINE  ",
         "choices": {},
         "id": 2688
       },
@@ -46081,7 +46081,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": "  8",
         "question": " How many subsets does the set {a, b, c, d} have? ",
-        "answer": " 16   \t       ",
+        "answer": " 16   ",
         "choices": {},
         "id": 2690
       },
@@ -46115,7 +46115,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 9",
         "question": " In 2009, the state of Tennessee had the greatest average residential electricity consumption of 1,248 kilowatt hours per month at an average retail price of about 9 cents per kilowatt hour. The state of Hawaii had the highest average retail price of about 24 cents per kilowatt hour and an average residential electricity consumption of 617 kilowatt hours per month. Giving your answer to the nearest dollar, how much more, on average, was the monthly electricity bill in Hawaii than in Tennessee? ",
-        "answer": " $36 _________________ ",
+        "answer": " $36  ",
         "choices": {},
         "id": 2692
       },
@@ -46143,7 +46143,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 10",
         "question": " If a superconductor's temperature rises above its critical point, the superconductor transitions back to a regular conductor with resistance. If this occurred, and a conductor had a resistance of 1 ohm, what voltage would drive 2 amps of current through the conductor? ",
-        "answer": " 2   \t       ",
+        "answer": " 2   ",
         "choices": {},
         "id": 2694
       },
@@ -46177,7 +46177,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 11",
         "question": " The radius of the Earth is approximately 6.4 x 106 meters (read as: 6.4 times 10 to the sixth). Giving your answer in scientific notation with one significant digit, what is the surface area of Earth in square meters?  ",
-        "answer": " 5 × 1014 _________________ ",
+        "answer": " 5 × 1014  ",
         "choices": {},
         "id": 2696
       },
@@ -46205,7 +46205,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 12",
         "question": " Which of the following statements is NOT true about slime mold? ",
-        "answer": " W) IT IS A FUNGUS *[NOTE: SLIME MOLDS WERE ORIGINALLY CLASSIFIED AS A FUNGUS BUT HAVE BEEN RECLASSIFIED. SEE: http://www.ucmp.berkeley.edu/protista/slimemolds.html]   \t       ",
+        "answer": " W) IT IS A FUNGUS *[NOTE: SLIME MOLDS WERE ORIGINALLY CLASSIFIED AS A FUNGUS BUT HAVE BEEN RECLASSIFIED. SEE: http://www.ucmp.berkeley.edu/protista/slimemolds.html]   ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " It is a fungus* ",
@@ -46245,7 +46245,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 13",
         "question": " A component of a solar energy system is the charge controller. What is its function? ",
-        "answer": " X) TO REGULATE THE AMOUNT OF POWER THAT GOES INTO ENERGY STORAGE FOR LATER USE _________________ ",
+        "answer": " X) TO REGULATE THE AMOUNT OF POWER THAT GOES INTO ENERGY STORAGE FOR LATER USE  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " To provide electrical protection to the system ",
@@ -46319,7 +46319,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 15",
         "question": " Factor completely over the integers: 15y² - y – 6. ",
-        "answer": " (5y + 3) (3y – 2) _________________ ",
+        "answer": " (5y + 3) (3y – 2)  ",
         "choices": {},
         "id": 2704
       },
@@ -46347,7 +46347,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 16",
         "question": " Name the type of immune cell that is attacked by HIV? ",
-        "answer": " T-CELL OR HELPER T-CELL (ACCEPT: CD4 T CELL)   \t       ",
+        "answer": " T-CELL OR HELPER T-CELL (ACCEPT: CD4 T CELL)   ",
         "choices": {},
         "id": 2706
       },
@@ -46381,7 +46381,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 17",
         "question": " A father is colorblind, but his wife is not colorblind and is not a carrier of the gene for colorblindness. If the couple has a son, will he be colorblind? ",
-        "answer": " X) NO, BECAUSE THE MOTHER IS NEITHER COLORBLIND NOR A CARRIER OF COLORBLINDNESS _________________ ",
+        "answer": " X) NO, BECAUSE THE MOTHER IS NEITHER COLORBLIND NOR A CARRIER OF COLORBLINDNESS  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Yes, because colorblindness is always passed from father to son ",
@@ -46415,7 +46415,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 18",
         "question": " What is the multiplicative inverse of the rational number halfway between -1/3 and -1/4? ?  ",
-        "answer": "  -24 7   \t       ",
+        "answer": "  -24 7   ",
         "choices": {},
         "id": 2710
       },
@@ -46449,7 +46449,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 19",
         "question": " The jet stream separates major air masses over the central continental U.S. The high pressure air mass to the north of the jet stream has which of the following characteristics in winter? ",
-        "answer": " Z) COLD AND DRY _________________ ",
+        "answer": " Z) COLD AND DRY  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Warm and humid ",
@@ -46523,7 +46523,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 21",
         "question": " Which of the following elements has the highest boiling point? ",
-        "answer": " Z) GOLD _________________ ",
+        "answer": " Z) GOLD  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Copper ",
@@ -46557,7 +46557,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 22",
         "question": " What is the largest moon in our Solar System? ",
-        "answer": " Y) GANYMEDE   \t       ",
+        "answer": " Y) GANYMEDE   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Io ",
@@ -46597,7 +46597,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 23",
         "question": " When you have the flu, what part of the nervous system is responsible for elevating your body temperature? ",
-        "answer": " Y) HYPOTHALAMUS _________________ ",
+        "answer": " Y) HYPOTHALAMUS  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Medulla oblongata ",
@@ -46637,7 +46637,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 24",
         "question": " When fresh water streams meet the salty ocean, water of intermediate salinity forms. What term is used to describe this type of water? ",
-        "answer": " BRACKISH   \t       ",
+        "answer": " BRACKISH   ",
         "choices": {},
         "id": 2722
       },
@@ -47539,7 +47539,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 1",
         "question": " To calculate the escape velocity for an object when it is much smaller than the larger body, name all of the of the following that can be neglected: 1) drag force, 2) atmospheric pressure, and/or 3) relative angle at which the smaller object travels? ",
-        "answer": " DRAG FORCE, ATMOSPHERIC PRESSURE, AND RELATIVE ANGLE AT WHICH THE SMALLER OBJECT TRAVELS (ACCEPT: 1, 2, 3, ALL) _________________ ",
+        "answer": " DRAG FORCE, ATMOSPHERIC PRESSURE, AND RELATIVE ANGLE AT WHICH THE SMALLER OBJECT TRAVELS (ACCEPT: 1, 2, 3, ALL)  ",
         "choices": {},
         "id": 2774
       },
@@ -47607,7 +47607,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 3",
         "question": " A triangle has an area of 9y2 - 9y -10. The base of the triangle is 3y - 5. In terms of y, what is the height of the triangle? ",
-        "answer": " 6y + 4 _________________ ",
+        "answer": " 6y + 4  ",
         "choices": {},
         "id": 2778
       },
@@ -47681,7 +47681,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 5",
         "question": " What is the name for the amount of energy it takes to change a unit mass of a solid into the same mass of liquid? ",
-        "answer": " THE LATENT HEAT OF FUSION _________________ ",
+        "answer": " THE LATENT HEAT OF FUSION  ",
         "choices": {},
         "id": 2782
       },
@@ -47737,7 +47737,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 7",
         "question": " What disease was the first vaccination intended to prevent? ",
-        "answer": " SMALLPOX _________________ ",
+        "answer": " SMALLPOX  ",
         "choices": {},
         "id": 2786
       },
@@ -47811,7 +47811,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 9",
         "question": " Which of the following types of physical weathering is referred to as onion skin weathering, where concentric shells of weathered material form around a rock? ",
-        "answer": " X) EXFOLIATION _________________ ",
+        "answer": " X) EXFOLIATION  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Freeze/thaw ",
@@ -47879,7 +47879,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 11",
         "question": " In which of the following parts of the kidney does filtration occur? ",
-        "answer": " W) RENAL CORPUSCLE _________________ ",
+        "answer": " W) RENAL CORPUSCLE  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Renal corpuscle ",
@@ -47947,7 +47947,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 13",
         "question": " You experience an ocean breeze when you stand on the beach on a summer afternoon because: ",
-        "answer": " Y) AIR OVER LAND IS HEATED MORE, CAUSING IT TO RISE AND MAKE ROOM FOR THE COOLER OCEAN AIR _________________ ",
+        "answer": " Y) AIR OVER LAND IS HEATED MORE, CAUSING IT TO RISE AND MAKE ROOM FOR THE COOLER OCEAN AIR  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Wind always comes into land off the water because air moves more over the ocean ",
@@ -48015,7 +48015,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 15",
         "question": " Which of the following statements is true about glaciers? ",
-        "answer": " W) GLACIERS ARE GENERALLY FULL OF ROCKS AND SEDIMENTS AND CAN MOVE THESE OBJECTS FAR FROM THEIR SOURCES _________________ ",
+        "answer": " W) GLACIERS ARE GENERALLY FULL OF ROCKS AND SEDIMENTS AND CAN MOVE THESE OBJECTS FAR FROM THEIR SOURCES  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Glaciers are generally full of rocks and sediments and can move these objects far from their sources ",
@@ -48089,7 +48089,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 17",
         "question": " Which of the following relative dating principles relies on fossils for dating? ",
-        "answer": " Y) FAUNAL SUCCESSION _________________ ",
+        "answer": " Y) FAUNAL SUCCESSION  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Original horizontality ",
@@ -48163,7 +48163,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 19",
         "question": " The radius of Planet C is close to half that of Earth, and both have the same average density. Compared to Earth’s gravitational acceleration at the surface, approximately what will Planet C’s gravity be at its surface? ",
-        "answer": " Z) g/2 _________________ ",
+        "answer": " Z) g/2  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " 4 g ",
@@ -48237,7 +48237,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 21",
         "question": " Which of the following is true of a step-down transformer? ",
-        "answer": " Y) THE NUMBER OF TURNS IN THE PRIMARY COIL IS GREATER THAN THE NUMBER OF TURNS IN THE SECONDARY COIL _________________ ",
+        "answer": " Y) THE NUMBER OF TURNS IN THE PRIMARY COIL IS GREATER THAN THE NUMBER OF TURNS IN THE SECONDARY COIL  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " The number of turns in the primary coil is less than the number of turns in the secondary coil ",
@@ -48311,7 +48311,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 23",
         "question": " Which of the following is a metalloid? ",
-        "answer": " Z) SILICON _________________ ",
+        "answer": " Z) SILICON  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Beryllium ",
@@ -50913,7 +50913,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 1",
         "question": " You have a cylinder with a radius of b and a height of (2b + 4). A rectangular prism has the same volume as the cylinder. The rectangular prism has a square base with side lengths of 2b. What is the height of the rectangular prism in terms of π? ",
-        "answer": " π/2 b + π [ACCEPT: π( ½ b + 1)] _________________ ",
+        "answer": " π/2 b + π [ACCEPT: π( ½ b + 1)]  ",
         "choices": {},
         "id": 2970
       },
@@ -50947,7 +50947,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 2",
         "question": " If you were to take a section of a leaf, which of the following statements correctly aligns the part of the leaf and its function? ",
-        "answer": " X) THYLAKOID: CAPTURES LIGHT   \t       ",
+        "answer": " X) THYLAKOID: CAPTURES LIGHT   ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Mesophyll (read as: MEH-zoh-fil): Opening through which air brings carbon dioxide ",
@@ -50987,7 +50987,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 3",
         "question": " At high temperatures, the capacitance of a capacitor will: ",
-        "answer": " X) NOT INCREASE BECAUSE THE VALUE OF CAPACITANCE IS UNAFFECTED BY TEMPERATURE _________________ TOSS- UP 4) EARTH AND SPACE SCIENCE ",
+        "answer": " X) NOT INCREASE BECAUSE THE VALUE OF CAPACITANCE IS UNAFFECTED BY TEMPERATURE  TOSS- UP 4) EARTH AND SPACE SCIENCE ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Not increase, because the magnetic field is too strong ",
@@ -51007,7 +51007,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 4",
         "question": " What is the term for the structural geologic feature in which there is an increased dip in otherwise gently dipping strata? ",
-        "answer": " MONOCLINE   \t       ",
+        "answer": " MONOCLINE   ",
         "choices": {},
         "id": 2975
       },
@@ -51035,7 +51035,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 5",
         "question": " A circle circumscribes a regular hexagon with side lengths of 8 centimeters. In terms of pi, what is the circumference of the circle? ",
-        "answer": " 16π _________________ ",
+        "answer": " 16π  ",
         "choices": {},
         "id": 2977
       },
@@ -51069,7 +51069,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 6",
         "question": " Name the protein that transports oxygen to cells via the circulatory system. ",
-        "answer": " HEMOGLOBIN   \t       ",
+        "answer": " HEMOGLOBIN   ",
         "choices": {},
         "id": 2979
       },
@@ -51103,7 +51103,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 7",
         "question": " By name or number, identify which of the following organisms demonstrate a catadromous life cycle: 1) sockeye salmon; 2) coho salmon; 3) American eel; and/or 4) peacock flounder. ",
-        "answer": " AMERICAN EEL (ACCEPT: 3) _________________ ",
+        "answer": " AMERICAN EEL (ACCEPT: 3)  ",
         "choices": {},
         "id": 2981
       },
@@ -51137,7 +51137,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 8",
         "question": " Which of the following is an index mineral? ",
-        "answer": " X) ANDALUSITE   \t       ",
+        "answer": " X) ANDALUSITE   ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Chalcopyrite (read as: kahl-koh-PY-ryt) ",
@@ -51171,7 +51171,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 9",
         "question": " A pyramid is 14 meters tall and has a square base that is approximately 15 meters on a side. What is its volume in cubic meters? ",
-        "answer": " 1050 _________________ ",
+        "answer": " 1050  ",
         "choices": {},
         "id": 2985
       },
@@ -51205,7 +51205,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 10",
         "question": " A cubic meter of H2O has the greatest amount of energy in which of the following situations? ",
-        "answer": " X) WATER VAPOR IN AN AIRMASS OVER KANSAS   \t       ",
+        "answer": " X) WATER VAPOR IN AN AIRMASS OVER KANSAS   ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Ice in a Rocky Mountain glacier ",
@@ -51245,7 +51245,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 11",
         "question": " In order for a compound to be analyzed using infrared spectroscopy, the molecule must exhibit a change in which of the following? ",
-        "answer": " X) DIPOLE MOMENT _________________ ",
+        "answer": " X) DIPOLE MOMENT  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Ionization energy ",
@@ -51279,7 +51279,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 12",
         "question": " What is the term for the process of removal of inorganic and organic substances from the “A” soil horizon by leaching? ",
-        "answer": " ELUVIATION   \t       ",
+        "answer": " ELUVIATION   ",
         "choices": {},
         "id": 2991
       },
@@ -51313,7 +51313,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 13",
         "question": " Which of the following represents the primary symptom from the chytrid fungus infecting amphibians? ",
-        "answer": " W) THE FUNGUS ATTACKS THE SKIN, MAKING RESPIRATION DIFFICULT _________________ ",
+        "answer": " W) THE FUNGUS ATTACKS THE SKIN, MAKING RESPIRATION DIFFICULT  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " The fungus attacks the skin, making respiration difficult ",
@@ -51347,7 +51347,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 14",
         "question": " Sixteen thousand years ago, the landscape of the Midwest was very different than it is today. Glaciers were retreating, but much of the Midwestern United States was under ice. Which of the following statements is NOT true about the Midwest 16,000 years ago? ",
-        "answer": " Y) WINTER TEMPERATURES WERE DRAMATICALLY COOLER THAN THEY ARE TODAY   \t       ",
+        "answer": " Y) WINTER TEMPERATURES WERE DRAMATICALLY COOLER THAN THEY ARE TODAY   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Spruce grew throughout much of the Midwest south of the glaciers ",
@@ -51387,7 +51387,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 15",
         "question": " What type of symmetry is associated with adult echinoderms (read as: i-KY-neh-dehrms)? ",
-        "answer": " RADIAL SYMMETRY (ACCEPT 5-FOLD OR PENTARADIAL SYMMETRY, SECONDARY RADIAL SYMMETRY) _________________ ",
+        "answer": " RADIAL SYMMETRY (ACCEPT 5-FOLD OR PENTARADIAL SYMMETRY, SECONDARY RADIAL SYMMETRY)  ",
         "choices": {},
         "id": 2997
       },
@@ -51421,7 +51421,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 16",
         "question": " Operational amplifiers can be used in combination with inductors and capacitors and their energy storage abilities to create: ",
-        "answer": " Y) AN AM RADIO   \t       ",
+        "answer": " Y) AN AM RADIO   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " A protection device ",
@@ -51455,7 +51455,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 17",
         "question": " Which of the following flowers is NOT a monocot? ",
-        "answer": " W) GERANIUM _________________ ",
+        "answer": " W) GERANIUM  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Geranium ",
@@ -51489,7 +51489,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 18",
         "question": " If each of the following objects is allowed to roll down a ramp without slipping, which reaches the bottom with the greatest speed? ",
-        "answer": " Y) SOLID SPHERE   \t       ",
+        "answer": " Y) SOLID SPHERE   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Solid cylinder ",
@@ -51529,7 +51529,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 19",
         "question": " What is the source of the northeast trade winds in the North Atlantic? ",
-        "answer": " X) NORTH AFRICA _________________ ",
+        "answer": " X) NORTH AFRICA  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Florida ",
@@ -51563,7 +51563,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 20",
         "question": " A rectangular landscape box has a base measuring 2 feet by 6 feet, with a height of one foot. If 9 cubic feet of potting soil are placed in the box and evenly spread with a consistent depth, what will be the height in inches of the soil? ",
-        "answer": " 9   \t       ",
+        "answer": " 9   ",
         "choices": {},
         "id": 3007
       },
@@ -51597,7 +51597,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 21",
         "question": " Although this is dangerous, if you hypothetically were to breathe in xenon or krypton instead of helium, what would happen to the sound of your voice? ",
-        "answer": " W) IT WOULD BE LOWER THAN WHEN YOU BREATHE HELIUM AND ALSO LOWER THAN YOUR REGULAR VOICE _________________ ",
+        "answer": " W) IT WOULD BE LOWER THAN WHEN YOU BREATHE HELIUM AND ALSO LOWER THAN YOUR REGULAR VOICE  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " It would be lower than when you breathe helium and also lower than your regular voice ",
@@ -51637,7 +51637,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 22",
         "question": " What part of the brain links the endocrine and nervous systems? ",
-        "answer": " HYPOTHALAMUS   \t       ",
+        "answer": " HYPOTHALAMUS   ",
         "choices": {},
         "id": 3011
       },
@@ -51671,7 +51671,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 23",
         "question": " What is the length of the hypotenuse in a right triangle with legs of length 14 and 48? ",
-        "answer": " 50 _________________ ",
+        "answer": " 50  ",
         "choices": {},
         "id": 3013
       },
@@ -51705,7 +51705,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 24",
         "question": " About how many watts does a 10 horsepower lawn mower engine produce? ",
-        "answer": " Z) 7460   \t       ",
+        "answer": " Z) 7460   ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " 36 ",
@@ -52353,7 +52353,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 19",
         "question": " Cholesterol is responsible for altering membrane fluidity. In which of the following conditions would the presence of cholesterol have the greatest effect on the fluidity of the cell membrane? ",
-        "answer": " W) WHEN CHOLESTEROL LEVELS INCREASE AND THE MEMBRANE IS AT A LOW TEMPERATURE ______________________________________________________ ",
+        "answer": " W) WHEN CHOLESTEROL LEVELS INCREASE AND THE MEMBRANE IS AT A LOW TEMPERATURE  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " When cholesterol levels increase and the membrane is at a low temperature ",
@@ -54765,7 +54765,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 15",
         "question": " At 132 feet below the ocean surface, by how much does the pressure exceed that at the surface? ",
-        "answer": " Z) 58.8 psi ______________________________________________________ ",
+        "answer": " Z) 58.8 psi  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " 7 bars ",
@@ -55107,7 +55107,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 1",
         "question": " Which of the following statements about thermophiles in Yellowstone National Park is NOT true? ",
-        "answer": " Y) MOST THERMOPHILES ARE IN THE KINGDOM EUBACTERIA _________________ ",
+        "answer": " Y) MOST THERMOPHILES ARE IN THE KINGDOM EUBACTERIA  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Many thermophiles live in hot pools of water ",
@@ -55141,7 +55141,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 2",
         "question": " Which of the following is NOT considered a variable star? ",
-        "answer": " Z) BROWN DWARF   \t       ",
+        "answer": " Z) BROWN DWARF   ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Cepheid (read as: SEH-feed) ",
@@ -55175,7 +55175,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 3",
         "question": " Which of the following lists the four upper spheres of Earth in the correct order of their chronological development? ",
-        "answer": " Y) LITHOSPHERE, ATMOSPHERE, HYDROSPHERE, BIOSPHERE _________________ ",
+        "answer": " Y) LITHOSPHERE, ATMOSPHERE, HYDROSPHERE, BIOSPHERE  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Atmosphere, biosphere, lithosphere, hydrosphere ",
@@ -55209,7 +55209,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 4",
         "question": " What is the length, in inches to the nearest whole number, of the arc corresponding to a sector with angle 45 degrees and radius 10 inches? ",
-        "answer": " 8   \t       ",
+        "answer": " 8   ",
         "choices": {},
         "id": 3220
       },
@@ -55243,7 +55243,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 5",
         "question": " The Dragon Storm on Saturn emitted radiation similar to that generated by lightning on Earth. In what part of the electromagnetic spectrum are these emissions found? ",
-        "answer": " RADIO _________________ ",
+        "answer": " RADIO  ",
         "choices": {},
         "id": 3222
       },
@@ -55277,7 +55277,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 6",
         "question": " Neglecting the effect of air resistance, what is the shape of the trajectory of a projectile launched upward at a 50 degree angle from ground level? ",
-        "answer": " PARABOLA   \t       ",
+        "answer": " PARABOLA   ",
         "choices": {},
         "id": 3224
       },
@@ -55305,7 +55305,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 7",
         "question": " Giving your answer in amps to the nearest hundredth (read as: hun-DREDTH), how much current flows through a circuit containing a 3.6 ohm resistor and a 9 volt battery? ",
-        "answer": " 2.5 _________________ ",
+        "answer": " 2.5  ",
         "choices": {},
         "id": 3226
       },
@@ -55333,7 +55333,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 8",
         "question": " How many phalanges do most people have in their left foot? ",
-        "answer": " 14   \t       ",
+        "answer": " 14   ",
         "choices": {},
         "id": 3228
       },
@@ -55361,7 +55361,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 9",
         "question": " If the Earth’s axis lost its tilt, which of the following would least likely occur? ",
-        "answer": " Y) COOLER TEMPERATURES IN WINTER AND HOTTER TEMPERATURES IN SUMMER _________________ ",
+        "answer": " Y) COOLER TEMPERATURES IN WINTER AND HOTTER TEMPERATURES IN SUMMER  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Changes in ocean surface currents ",
@@ -55401,7 +55401,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 10",
         "question": " Which of the following statements is NOT true about rock avalanches? ",
-        "answer": " Z) THE MOVEMENT OF ROCKS DOWNSLOPE IN AN AVALANCHE IS CALLED A FLOW   \t       ",
+        "answer": " Z) THE MOVEMENT OF ROCKS DOWNSLOPE IN AN AVALANCHE IS CALLED A FLOW   ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Rock and debris can hurtle downslope at speeds exceeding 125 miles per hour ",
@@ -55435,7 +55435,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 11",
         "question": " Which of the following types of organism obtains energy primarily from inorganic compounds? ",
-        "answer": " W) CHEMOLITHOTROPH _________________ ",
+        "answer": " W) CHEMOLITHOTROPH  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Chemolithotroph (read as: kee-mōe-LI-thah-trōef) ",
@@ -55475,7 +55475,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 12",
         "question": " Ebola hemorrhagic fever is a severe, often fatal, disease in humans and nonhuman primates. It is caused by infection with the Ebola virus. Which of the following statements is NOT true about Ebola? ",
-        "answer": " Y) THE EBOLA VIRUS ORIGINATED IN MONKEYS   \t       ",
+        "answer": " Y) THE EBOLA VIRUS ORIGINATED IN MONKEYS   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Ebola typically occurs in sporadic outbreaks ",
@@ -55509,7 +55509,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 13",
         "question": " Why do many bridges have expansion joints? ",
-        "answer": " Z) TO PREVENT BUCKLING WHEN MATERIALS IN THE BRIDGE EXPAND AND CONTRACT WITH TEMPERATURE CHANGES _________________ ",
+        "answer": " Z) TO PREVENT BUCKLING WHEN MATERIALS IN THE BRIDGE EXPAND AND CONTRACT WITH TEMPERATURE CHANGES  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " To reduce the vibration of cars traveling across the bridge ",
@@ -55543,7 +55543,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 14",
         "question": " Which of the following is NOT evidence that supports the notion of Snowball Earth? ",
-        "answer": " W) STABLE CONCENTRATIONS OF ATMOSPHERIC CARBON DIOXIDE   \t       ",
+        "answer": " W) STABLE CONCENTRATIONS OF ATMOSPHERIC CARBON DIOXIDE   ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Stable concentrations of atmospheric carbon dioxide ",
@@ -55583,7 +55583,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 15",
         "question": " What is the sum of the numbers 1 through 250? ",
-        "answer": " 31,375 _________________ ",
+        "answer": " 31,375  ",
         "choices": {},
         "id": 3242
       },
@@ -55611,7 +55611,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 16",
         "question": " Providing your answer to the nearest integer, what is the force in newtons required to horizontally accelerate a 20 pound object on a frictionless surface to 10 meters per second squared? ",
-        "answer": " 91   \t       ",
+        "answer": " 91   ",
         "choices": {},
         "id": 3244
       },
@@ -55639,7 +55639,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 17",
         "question": " Which of the following amino acids must we obtain in our diets? ",
-        "answer": " X) LEUCINE _________________ ",
+        "answer": " X) LEUCINE  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Cysteine (read as: SIS-teh-een) ",
@@ -55673,7 +55673,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 18",
         "question": " What is the equation of the axis of symmetry for the parabola: y = 2x2 – 3x – 5? ",
-        "answer": " x = 3/4 OR x = 0.75   \t       ",
+        "answer": " x = 3/4 OR x = 0.75   ",
         "choices": {},
         "id": 3248
       },
@@ -55707,7 +55707,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 19",
         "question": " Find the energy, in joules, stored in an inductor of 10 henries with a current of 2 amperes flowing through it. ",
-        "answer": " 20 _________________ ",
+        "answer": " 20  ",
         "choices": {},
         "id": 3250
       },
@@ -55741,7 +55741,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 20",
         "question": " The addition of equal moles of which of the following to water will decrease the freezing point the most? ",
-        "answer": " Y) SULFURIC ACID   \t       ",
+        "answer": " Y) SULFURIC ACID   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Magnesium sulfate ",
@@ -55781,7 +55781,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 21",
         "question": " ABC is a 3-4-5 triangle. If a similar triangle, DEF, has a perimeter of 144, find the area of DEF in square units. ",
-        "answer": " 864 _________________ ",
+        "answer": " 864  ",
         "choices": {},
         "id": 3254
       },
@@ -55809,7 +55809,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 22",
         "question": " Which of the following choices does NOT represent a benefit of Mycorrhiza (read as: my-koh-RY-zah)? ",
-        "answer": " Y) ENHANCED UPTAKE OF NITROGEN   \t       ",
+        "answer": " Y) ENHANCED UPTAKE OF NITROGEN   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Enhanced absorption of water ",
@@ -55849,7 +55849,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 23",
         "question": " Which of the following describes the temperature and productivity of surface ocean water in an upwelling zone? ",
-        "answer": " Y) LOW TEMPERATURE AND HIGH PRODUCTIVITY _________________ ",
+        "answer": " Y) LOW TEMPERATURE AND HIGH PRODUCTIVITY  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " High temperature and low productivity ",
@@ -55883,7 +55883,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 24",
         "question": " What is one equation in slope intercept form of an asymptote of the 2  hyperbola\t   \t     (x\t   \t   -­‐\t   3) 25  -­‐\t     (y\t   +\t   1)2 49  =\t   1\t   \t     read as: the quantity x minus 3 squared over 25 minus the quantity y plus 1 squared over 49 equals 1)? ",
-        "answer": " y = OR y =   \t       ",
+        "answer": " y = OR y =   ",
         "choices": {},
         "id": 3260
       },
@@ -55931,7 +55931,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 1",
         "question": " If an object in uniform circular motion has a centripetal acceleration of 2 meters per second squared and is moving in a circle with a radius of 2 meters, what is its velocity in meters per second? ",
-        "answer": " 2 _________________ ",
+        "answer": " 2  ",
         "choices": {},
         "id": 3263
       },
@@ -55959,7 +55959,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 2",
         "question": " Which of the following substances would be least likely to dissolve in water? ",
-        "answer": " X) NONPOLAR COMPOUND   \t       ",
+        "answer": " X) NONPOLAR COMPOUND   ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Polar compound ",
@@ -55999,7 +55999,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 3",
         "question": " During what stage of meiosis does crossing over take place? ",
-        "answer": " PROPASE ONE _________________ ",
+        "answer": " PROPASE ONE  ",
         "choices": {},
         "id": 3267
       },
@@ -56033,7 +56033,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 4",
         "question": " What is the name for an elongated cluster of thunderstorm cells that is accompanied by a continuous gust front at the line’s leading edge? ",
-        "answer": " SQUALL LINE   \t       ",
+        "answer": " SQUALL LINE   ",
         "choices": {},
         "id": 3269
       },
@@ -56061,7 +56061,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 5",
         "question": " Giving your answer to the nearest thousand, how many joules of energy are required to raise the temperature of 2 kilograms of water by 3 degrees Celsius? ",
-        "answer": " 25,000 _________________ ",
+        "answer": " 25,000  ",
         "choices": {},
         "id": 3271
       },
@@ -56089,7 +56089,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 6",
         "question": " Which of the following devices exemplifies a reverse heat engine? ",
-        "answer": " Y) REFRIGERATOR   \t       ",
+        "answer": " Y) REFRIGERATOR   ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Diesel engine ",
@@ -56129,7 +56129,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 7",
         "question": " What is the adjective for a fish that is born in fresh water, swims to salt water, and returns to fresh water to spawn? ",
-        "answer": " ANADROMOUS _________________ ",
+        "answer": " ANADROMOUS  ",
         "choices": {},
         "id": 3275
       },
@@ -56163,7 +56163,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 8",
         "question": " According to the Lewis definition of an acid, what can a Lewis acid accept from a Lewis base? ",
-        "answer": " AN ELECTRON PAIR (ACCEPT: ELECTRONS)   \t       ",
+        "answer": " AN ELECTRON PAIR (ACCEPT: ELECTRONS)   ",
         "choices": {},
         "id": 3277
       },
@@ -56191,7 +56191,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 9",
         "question": " The Tropical Rainfall Measuring Mission (TRMM) satellite was launched in 1997 with the primary mission of measuring rainfall from space using passive microwave and active radar sensors. Which of the following is NOT a benefit of TRMM? ",
-        "answer": " Y) INCREASED UNDERSTANDING OF CONTRAILS _________________ ",
+        "answer": " Y) INCREASED UNDERSTANDING OF CONTRAILS  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Increased understanding of the water cycle ",
@@ -56225,7 +56225,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 10",
         "question": " What is the volume of a rectangular pyramid in cubic meters if the length of the base is 3.5 meters, the width of the base is 4 meters and the height of the pyramid is 6 meters? ",
-        "answer": " 28   \t       ",
+        "answer": " 28   ",
         "choices": {},
         "id": 3281
       },
@@ -56259,7 +56259,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 11",
         "question": " The linear momentum of a particle is directly proportional to which two quantities? ",
-        "answer": " MASS AND VELOCITY _________________ ",
+        "answer": " MASS AND VELOCITY  ",
         "choices": {},
         "id": 3283
       },
@@ -56287,7 +56287,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 12",
         "question": " Name the best known product made from organisms classified as imperfect fungi. ",
-        "answer": " PENICILLIN   \t       ",
+        "answer": " PENICILLIN   ",
         "choices": {},
         "id": 3285
       },
@@ -56315,7 +56315,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 13",
         "question": " Assuming all functions are defined, and expressing your answer in simplest form, evaluate (n2 + 7n – 8)/(n – 1) x (n2 – 4)/(n2 + 6n – 16) Read as: open parenthesis n squared plus 7n minus 8 close parenthesis over open parenthesis n minus 1 close parenthesis times the quantity open parenthesis n squared minus 4 close parenthesis over open parenthesis n squared plus 6n minus 16 close parenthesis. ",
-        "answer": " n + 2 _________________ ",
+        "answer": " n + 2  ",
         "choices": {},
         "id": 3287
       },
@@ -56343,7 +56343,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 14",
         "question": " A car’s radiator is an example of a component that transfers heat generated within a solid material to a fluid medium. What is such a component called? ",
-        "answer": " A HEAT SINK   \t       ",
+        "answer": " A HEAT SINK   ",
         "choices": {},
         "id": 3289
       },
@@ -56377,7 +56377,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 15",
         "question": " Which of the following is NOT a transition metal? ",
-        "answer": " W) ALUMINUM _________________ ",
+        "answer": " W) ALUMINUM  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Aluminum ",
@@ -56411,7 +56411,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 16",
         "question": " In right triangle ABC, angle A = 60°, angle C = 90°, and side AB = 10 centimeters. What is the length of side BC in centimeters? ",
-        "answer": "   \t       ",
+        "answer": "   ",
         "choices": {},
         "id": 3293
       },
@@ -56439,7 +56439,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 17",
         "question": " Which of the following correctly matches an order of amphibians and its characteristics? ",
-        "answer": " Y) APODA: TENTACLES AND FISHLIKE SCALES _________________ ",
+        "answer": " Y) APODA: TENTACLES AND FISHLIKE SCALES  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Squamata: legs, clawed toes and external ears ",
@@ -56473,7 +56473,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 18",
         "question": " Which of the following is the typical shape of a charged particle’s path in a magnetic field? ",
-        "answer": " X) CIRCULAR   \t       ",
+        "answer": " X) CIRCULAR   ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Elliptical ",
@@ -56507,7 +56507,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 19",
         "question": " If you see the Moon in the western sky just above the setting Sun, what is the Moon’s phase? ",
-        "answer": " Z) WAXING CRESCENT _________________ ",
+        "answer": " Z) WAXING CRESCENT  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " New moon ",
@@ -56541,7 +56541,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 20",
         "question": " Find the reference angle to angle A = ",
-        "answer": "   \t       ",
+        "answer": "   ",
         "choices": {},
         "id": 3301
       },
@@ -56575,7 +56575,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 21",
         "question": " The similarities between the wings of a bat and the wings of a dragonfly can be described, in evolutionary terms, as what type of structures? ",
-        "answer": " ANALOGOUS _________________ ",
+        "answer": " ANALOGOUS  ",
         "choices": {},
         "id": 3303
       },
@@ -56609,7 +56609,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 22",
         "question": " What type of bonds are the main intermolecular forces that allow water molecules to undergo cohesion? ",
-        "answer": " HYDROGEN BONDS   \t       ",
+        "answer": " HYDROGEN BONDS   ",
         "choices": {},
         "id": 3305
       },
@@ -56643,7 +56643,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 23",
         "question": " What geological feature is responsible for the dark spots on the moon? ",
-        "answer": " SOLID POOLS OF LAVA (ACCEPT: BASALTIC LAVA) _________________ ",
+        "answer": " SOLID POOLS OF LAVA (ACCEPT: BASALTIC LAVA)  ",
         "choices": {},
         "id": 3307
       },
@@ -56677,7 +56677,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 24",
         "question": " What is the radius in units of a cone with a volume of 384π cubic units and a height of 8 units? ",
-        "answer": " 12 6 5  x3 + 4 ?   \t       ",
+        "answer": " 12 6 5  x3 + 4 ?   ",
         "choices": {},
         "id": 3309
       },
@@ -60021,7 +60021,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 1",
         "question": " Two stones are dropped in a pond and the ripples interfere with each other to create a bigger ripple than each of the original ripples. What is this type of interference called? ",
-        "answer": " CONSTRUCTIVE _________________ ",
+        "answer": " CONSTRUCTIVE  ",
         "choices": {},
         "id": 3508
       },
@@ -60055,7 +60055,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 2",
         "question": " How many electrons does a chlorine atom have? ",
-        "answer": " 17  \t       ",
+        "answer": " 17  ",
         "choices": {},
         "id": 3510
       },
@@ -60089,7 +60089,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 3",
         "question": " Toads and salamanders live in water and on land. They are both examples of: ",
-        "answer": " W) AMPHIBIANS _________________ ",
+        "answer": " W) AMPHIBIANS  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Amphibians ",
@@ -60123,7 +60123,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 4",
         "question": " Name the two moons which orbit Mars. ",
-        "answer": " PHOBOS AND DEIMOS  \t       ",
+        "answer": " PHOBOS AND DEIMOS  ",
         "choices": {},
         "id": 3514
       },
@@ -60157,7 +60157,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 5",
         "question": " Which of the following is a characteristic of endothermic animals? ",
-        "answer": " Z) THEY MAINTAIN A CONSTANT INTERNAL TEMPERATURE AT ALL AIR TEMPERATURES _________________ ",
+        "answer": " Z) THEY MAINTAIN A CONSTANT INTERNAL TEMPERATURE AT ALL AIR TEMPERATURES  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " They have a higher metabolism in warm weather ",
@@ -60231,7 +60231,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 7",
         "question": " Which of the following elements would be expected to possess very different chemical properties from the others based on its placement in the periodic table? ",
-        "answer": " X) ARGON _________________ ",
+        "answer": " X) ARGON  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Chlorine ",
@@ -60265,7 +60265,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 8",
         "question": " Most submarines can only store enough fresh water to last for about 10 days. In order to obtain fresh water, most submarines are equipped with an apparatus that converts sea water into fresh water. What is the name of the process used to convert the sea water? ",
-        "answer": " REVERSE OSMOSIS (ACCEPT: DESALINATION)  \t       ",
+        "answer": " REVERSE OSMOSIS (ACCEPT: DESALINATION)  ",
         "choices": {},
         "id": 3522
       },
@@ -60293,7 +60293,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 9",
         "question": " Which of the following is not a form of metamorphic rock: slate, marble, gypsum, or gneiss (read as: NYS)? ",
-        "answer": " GYPSUM _________________ ",
+        "answer": " GYPSUM  ",
         "choices": {},
         "id": 3524
       },
@@ -60327,7 +60327,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 10",
         "question": " Which of the following integers is closest to 0.00009 (read as: zero point zero zero zero zero nine) to the power of -1? ",
-        "answer": " Z) 10,000  \t       ",
+        "answer": " Z) 10,000  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " -9 ",
@@ -60361,7 +60361,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 11",
         "question": " Work is done on the box in all of the following scenarios except: ",
-        "answer": " X) A BOY HOLDING THE BOX STILL ABOVE HIS HEAD _________________ ",
+        "answer": " X) A BOY HOLDING THE BOX STILL ABOVE HIS HEAD  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " A boy raising the box above his head ",
@@ -60401,7 +60401,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 12",
         "question": " When an organism becomes too large for muscular contractions and diffusion to effectively move nutrients throughout the body, what system is needed to transport the nutrients? ",
-        "answer": " CIRCULATORY (DO NOT ACCEPT: DIGESTIVE)  \t       ",
+        "answer": " CIRCULATORY (DO NOT ACCEPT: DIGESTIVE)  ",
         "choices": {},
         "id": 3530
       },
@@ -60435,7 +60435,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 13",
         "question": " Simplify 8 x 23 + 8 x 7 + 8 x 5 (read as: 8 times 23 plus 8 times 7 plus 8 times 5). Express the answer as a natural number. ",
-        "answer": " 280 _________________ ",
+        "answer": " 280  ",
         "choices": {},
         "id": 3532
       },
@@ -60503,7 +60503,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 15",
         "question": " Name four of the six kinds of simple machines. ",
-        "answer": " (ACCEPT 4) LEVER, WEDGE, PULLEY, WHEEL & AXLE, INCLINED PLANE, SCREW _________________ ",
+        "answer": " (ACCEPT 4) LEVER, WEDGE, PULLEY, WHEEL & AXLE, INCLINED PLANE, SCREW  ",
         "choices": {},
         "id": 3536
       },
@@ -60531,7 +60531,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 16",
         "question": " What is the multiplicative inverse, in simplest form, of 43 times 25? ",
-        "answer": " (read as: one, one thousand seventy-five ten thousandths, or 1 over 1075)  \t       ",
+        "answer": " (read as: one, one thousand seventy-five ten thousandths, or 1 over 1075)  ",
         "choices": {},
         "id": 3538
       },
@@ -60565,7 +60565,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 17",
         "question": " Most extremophiles belong to which group of organisms? ",
-        "answer": " Z) ARCHAEA _________________ ",
+        "answer": " Z) ARCHAEA  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Protists (read as: PRŌE-tists) ",
@@ -60605,7 +60605,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 18",
         "question": " Temperature is a measure of energy based on which property of a substance? ",
-        "answer": " MOLECULAR ACTIVITY (ACCEPT: MOLECULAR MOTION, AVERAGE KINETIC ENERGY, HEAT ENERGY)  \t       ",
+        "answer": " MOLECULAR ACTIVITY (ACCEPT: MOLECULAR MOTION, AVERAGE KINETIC ENERGY, HEAT ENERGY)  ",
         "choices": {},
         "id": 3542
       },
@@ -60633,7 +60633,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 19",
         "question": " What fossil fuel is responsible for most of the acid rain in the United States? ",
-        "answer": " Y) COAL _________________ ",
+        "answer": " Y) COAL  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Oil ",
@@ -60673,7 +60673,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 20",
         "question": " The area of a rectangle is 24 square centimeters. If you double both the length and width, what is the new area in square centimeters? ",
-        "answer": " 96  \t       ",
+        "answer": " 96  ",
         "choices": {},
         "id": 3546
       },
@@ -60701,7 +60701,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 21",
         "question": " Which of the following statements it true about pollen? ",
-        "answer": " Y) EITHER BEFORE OR AFTER ARRIVING ON THE STIGMA, EACH POLLEN GRAIN UNDERGOES A MITOTIC CELL DIVISION PRODUCING TWO SPERM _________________ ",
+        "answer": " Y) EITHER BEFORE OR AFTER ARRIVING ON THE STIGMA, EACH POLLEN GRAIN UNDERGOES A MITOTIC CELL DIVISION PRODUCING TWO SPERM  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Pollen must be transferred between plants by insects ",
@@ -60735,7 +60735,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 22",
         "question": " Which of the following do most asteroids orbit in our solar system? ",
-        "answer": " Z) THE SUN  \t       ",
+        "answer": " Z) THE SUN  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Jupiter ",
@@ -60775,7 +60775,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 23",
         "question": " Which of the following environmental conditions is NOT commonly associated with hurricanes? ",
-        "answer": " Y) GREATER THAN 25 MILES PER HOUR CHANGE IN WIND SPEED BETWEEN THE SURFACE AND UPPER TROPOSPHERE _________________ ",
+        "answer": " Y) GREATER THAN 25 MILES PER HOUR CHANGE IN WIND SPEED BETWEEN THE SURFACE AND UPPER TROPOSPHERE  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Warm ocean waters ",
@@ -60809,7 +60809,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 24",
         "question": " What is the sum of the largest prime number less than 50 and the largest square number less than 50? ",
-        "answer": " 96  \t       ",
+        "answer": " 96  ",
         "choices": {},
         "id": 3554
       },
@@ -62889,7 +62889,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 13",
         "question": " Using proper chemical nomenclature and indicating the state of each substance, such as solid, liquid, aqueous, or gas, what is the balanced chemical equation for the reaction of solid potassium with water? ",
-        "answer": " 2K(s) + 2H2O(l) → 2KOH(aq) + H2(g) (NOTE: S = SOLID; L = LIQUID; AQ = AQUEOUS; G = GAS) ______________________________________________________ ",
+        "answer": " 2K(s) + 2H2O(l) → 2KOH(aq) + H2(g) (NOTE: S = SOLID; L = LIQUID; AQ = AQUEOUS; G = GAS)  ",
         "choices": {},
         "id": 3679
       },
@@ -63305,7 +63305,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 1",
         "question": " What is the term for a chemical species having two ionizable hydrogen atoms? ",
-        "answer": " DIPROTIC _________________ ",
+        "answer": " DIPROTIC  ",
         "choices": {},
         "id": 3704
       },
@@ -63333,7 +63333,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 2",
         "question": " Sea stars, velvet worms and northern shrike birds – all three are examples of: ",
-        "answer": " Z) PREDATORS  \t       ",
+        "answer": " Z) PREDATORS  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Omnivores ",
@@ -63367,7 +63367,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 3",
         "question": " If you were to graph the inequality x < -7 (read as: x is less than negative 7) on a number line, what would it look like? ",
-        "answer": " W) IT WOULD HAVE AN OPEN CIRCLE AT -7 AND A RAY EXTENDING FROM -7 ON THE RIGHT TO NEGATIVE INFINITY ON THE LEFT _________________ ",
+        "answer": " W) IT WOULD HAVE AN OPEN CIRCLE AT -7 AND A RAY EXTENDING FROM -7 ON THE RIGHT TO NEGATIVE INFINITY ON THE LEFT  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " It would have an open circle at -7 and a ray extending from -7 on the right to negative infinity on the left ",
@@ -63407,7 +63407,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 4",
         "question": " Put the following countries in order from least to greatest current annual oil consumption: Brazil, France, India, and China. ",
-        "answer": " FRANCE, BRAZIL, INDIA, AND CHINA  \t       ",
+        "answer": " FRANCE, BRAZIL, INDIA, AND CHINA  ",
         "choices": {},
         "id": 3710
       },
@@ -63441,7 +63441,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 5",
         "question": " What is the smallest non-divisible unit of a covalent compound? ",
-        "answer": " MOLECULE _________________ ",
+        "answer": " MOLECULE  ",
         "choices": {},
         "id": 3712
       },
@@ -63469,7 +63469,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 6",
         "question": " How many triangular pieces with side lengths of 3 inches, 4 inches, and 5 inches can be cut from a rectangular sheet measuring 8 inches by 6 inches? ",
-        "answer": " 8  \t       ",
+        "answer": " 8  ",
         "choices": {},
         "id": 3714
       },
@@ -63497,7 +63497,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 7",
         "question": " A plasmid is a circular DNA molecule that is separate from chromosomal DNA, usually occurring in bacteria. Which of the following do plasmids usually contain? ",
-        "answer": " Z) ONE OR TWO GENES _________________ ",
+        "answer": " Z) ONE OR TWO GENES  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Single-stranded DNA ",
@@ -63531,7 +63531,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 8",
         "question": " What is the main difference between the electromagnetic waves used by a radio and those used by a cell phone? ",
-        "answer": " THEIR WAVELENGTH (ALSO ACCEPT: FREQUENCY OR PERIOD)  \t       ",
+        "answer": " THEIR WAVELENGTH (ALSO ACCEPT: FREQUENCY OR PERIOD)  ",
         "choices": {},
         "id": 3718
       },
@@ -63559,7 +63559,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 9",
         "question": " Approximately what percent of Earth’s water is in the form of ice? ",
-        "answer": " W) 1.6 % _________________ ",
+        "answer": " W) 1.6 %  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " 1.6 % ",
@@ -63599,7 +63599,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 10",
         "question": " If x + y = 5 and 3x – 4y = 15, solve for x and y. ",
-        "answer": " x = 5 AND y = 0  \t       ",
+        "answer": " x = 5 AND y = 0  ",
         "choices": {},
         "id": 3722
       },
@@ -63633,7 +63633,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 11",
         "question": " In a given ecosystem, there are 1 million kilojoules of energy contained in the primary producer biomass. How much energy is available, in kilojoules, to secondary consumers if primary consumers are 10% efficient at converting energy to biomass? ",
-        "answer": " 100,000 _________________ ",
+        "answer": " 100,000  ",
         "choices": {},
         "id": 3724
       },
@@ -63661,7 +63661,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 12",
         "question": " Ira puts 20% of his paycheck in savings. If his check is $60 per week, how much money will he save in four weeks? ",
-        "answer": " $48  \t       ",
+        "answer": " $48  ",
         "choices": {},
         "id": 3726
       },
@@ -63689,7 +63689,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 13",
         "question": " The Earth's core is believed to be composed primarily of what element? ",
-        "answer": " IRON _________________ ",
+        "answer": " IRON  ",
         "choices": {},
         "id": 3728
       },
@@ -63723,7 +63723,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 14",
         "question": " The intersection between the femur and the hipbone can be described as what kind of joint? ",
-        "answer": " BALL AND SOCKET  \t       ",
+        "answer": " BALL AND SOCKET  ",
         "choices": {},
         "id": 3730
       },
@@ -63751,7 +63751,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 15",
         "question": " What are the ecosystems called that are located around rivers and streams, linking water to dry land? ",
-        "answer": " RIPARIAN ZONES (ACCEPT: RIPARIAN AREAS, FLOODPLAIN) _________________ ",
+        "answer": " RIPARIAN ZONES (ACCEPT: RIPARIAN AREAS, FLOODPLAIN)  ",
         "choices": {},
         "id": 3732
       },
@@ -63785,7 +63785,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 16",
         "question": " For solid and liquid solutes, changes in pressure have practically no effect on solubility. For gaseous solutes, what happens to solubility with an increase in pressure? ",
-        "answer": " SOLUBILITY INCREASES  \t       ",
+        "answer": " SOLUBILITY INCREASES  ",
         "choices": {},
         "id": 3734
       },
@@ -63813,7 +63813,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 17",
         "question": " Name the enzyme present in saliva that is responsible for breaking down starches into sugars. ",
-        "answer": " AMYLASE (ALSO ACCEPT: PTYALIN) _________________ ",
+        "answer": " AMYLASE (ALSO ACCEPT: PTYALIN)  ",
         "choices": {},
         "id": 3736
       },
@@ -63847,7 +63847,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 18",
         "question": " ATP is commonly called the energy molecule of the cell. Where in the cell would you find ATP made by substrate phosphorylation? ",
-        "answer": " X) CYTOPLASM  \t       ",
+        "answer": " X) CYTOPLASM  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Cell membrane ",
@@ -63887,7 +63887,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 19",
         "question": " Which of the following statements is NOT true about weather or climate? ",
-        "answer": " Y) CLIMATE CAUSES WEATHER _________________ ",
+        "answer": " Y) CLIMATE CAUSES WEATHER  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " The terms weather is used to describe atmospheric conditions over a short period of time in a particular area ",
@@ -63921,7 +63921,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 20",
         "question": " Which of the following types of radiation has the shortest wavelength? ",
-        "answer": " W) GAMMA RAYS  \t       ",
+        "answer": " W) GAMMA RAYS  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Gamma rays ",
@@ -63961,7 +63961,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 21",
         "question": " About what percentage of efficiency can an OTEC system currently achieve? ",
-        "answer": " X) 3% _________________ ",
+        "answer": " X) 3%  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " 1% ",
@@ -63995,7 +63995,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 22",
         "question": " Which two features determine the force of gravity between two planets? ",
-        "answer": " W) THEIR MASSES AND DISTANCE APART  \t       ",
+        "answer": " W) THEIR MASSES AND DISTANCE APART  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Their masses and distance apart ",
@@ -64029,7 +64029,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 23",
         "question": " Of the following choices, which one best describes the way snowflakes form? ",
-        "answer": " X) WATER VAPOR FREEZES ONTO ICE CRYSTALS INSIDE CLOUDS _________________ ",
+        "answer": " X) WATER VAPOR FREEZES ONTO ICE CRYSTALS INSIDE CLOUDS  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Raindrops freeze ",
@@ -64069,7 +64069,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 24",
         "question": " A large portion of the bottom of the Great Salt Lake is covered by smooth, soft and rounded sand, often used in home aquaria. What kind of sand is it? ",
-        "answer": " OOLITIC (ACCEPT: OOLITE)  \t       ",
+        "answer": " OOLITIC (ACCEPT: OOLITE)  ",
         "choices": {},
         "id": 3750
       },
@@ -64117,7 +64117,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 1",
         "question": " Which of the following is an advantage of using biomass in the form of corn to produce ethanol? ",
-        "answer": " Z) FOOD FOR CATTLE IS PRODUCED WHEN CORN GRAIN IS CONVERTED TO ETHANOL _________________ ",
+        "answer": " Z) FOOD FOR CATTLE IS PRODUCED WHEN CORN GRAIN IS CONVERTED TO ETHANOL  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Using corn to produce ethanol means that the U.S. will no longer need to import petroleumbased products ",
@@ -64151,7 +64151,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 2",
         "question": " What was the first planet discovered with a telescope? ",
-        "answer": " URANUS  \t       ",
+        "answer": " URANUS  ",
         "choices": {},
         "id": 3755
       },
@@ -64185,7 +64185,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 3",
         "question": " Which of the following regions of the electromagnetic spectrum has a longer wavelength than visible light? ",
-        "answer": " Y) MICROWAVES _________________ ",
+        "answer": " Y) MICROWAVES  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Ultraviolet ",
@@ -64265,7 +64265,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 5",
         "question": " The circumference of a circle is 6π. What is its area in terms of π? ",
-        "answer": " 9π _________________ ",
+        "answer": " 9π  ",
         "choices": {},
         "id": 3761
       },
@@ -64293,7 +64293,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 6",
         "question": " Thermodynamics tells us that we cannot reduce entropy in a closed system; it will always increase. Of what does entropy serve as a measure? ",
-        "answer": " Y) DISORDER  \t       ",
+        "answer": " Y) DISORDER  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " System size ",
@@ -64333,7 +64333,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 7",
         "question": " Which of the following organisms cannot perform photosynthesis? ",
-        "answer": " Y) MUSHROOMS _________________ ",
+        "answer": " Y) MUSHROOMS  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Cyanobacteria (read as: SY-ah-nōe-bahk-TIR-ee-ah ) ",
@@ -64367,7 +64367,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 8",
         "question": " The lengths of two sides of a triangle are 3 and 12. Which of the following could be the length of the third side? ",
-        "answer": " Y) 12  \t       ",
+        "answer": " Y) 12  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " 4 ",
@@ -64407,7 +64407,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 9",
         "question": " In most developing countries excluding China and India, which of the following is the primary source of energy for household energy consumption in rural and poor areas? ",
-        "answer": " Y) BIOMASS _________________ ",
+        "answer": " Y) BIOMASS  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Hydroelectricity ",
@@ -64441,7 +64441,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 10",
         "question": " You are standing on a scale in an elevator that is accelerating upwards as it goes from the basement to the roof. How does the reading of the scale compare with that obtained when the elevator was standing still? ",
-        "answer": " GREATER (ACCEPT: HIGHER, LARGER)  \t       ",
+        "answer": " GREATER (ACCEPT: HIGHER, LARGER)  ",
         "choices": {},
         "id": 3771
       },
@@ -64469,7 +64469,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 11",
         "question": " At the oil spill in the Gulf of Mexico, underwater robots dove down in the water 5000 feet. If the robot dove down another 3000 feet, then rose up 6500 feet, where would the robot be in relation to sea level? ",
-        "answer": " -1500 (ACCEPT: 1500 BELOW SEA LEVEL) _________________ ",
+        "answer": " -1500 (ACCEPT: 1500 BELOW SEA LEVEL)  ",
         "choices": {},
         "id": 3773
       },
@@ -64497,7 +64497,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 12",
         "question": " What force allows the xylem to transport water against gravity? ",
-        "answer": " CAPILLARY ACTION  \t       ",
+        "answer": " CAPILLARY ACTION  ",
         "choices": {},
         "id": 3775
       },
@@ -64531,7 +64531,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 13",
         "question": " Based solely on wind speeds, rank the following states in order from most to least windy: Florida, Missouri, Nebraska, Arkansas. ",
-        "answer": " NEBRASKA, MISSOURI, ARKANSAS, FLORIDA _________________ ",
+        "answer": " NEBRASKA, MISSOURI, ARKANSAS, FLORIDA  ",
         "choices": {},
         "id": 3777
       },
@@ -64559,7 +64559,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 14",
         "question": " Which of the following is used to describe a thrust fault? ",
-        "answer": " Z) CONVERGENT  \t       ",
+        "answer": " Z) CONVERGENT  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Divergent ",
@@ -64599,7 +64599,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 15",
         "question": " What is the length of the hypotenuse in a right triangle with legs of length 7 and 24? ",
-        "answer": " 25 _________________ ",
+        "answer": " 25  ",
         "choices": {},
         "id": 3781
       },
@@ -64633,7 +64633,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 16",
         "question": " Feather color in chickens can be a codominant trait. You cross a white chicken with a black chicken. Which of the following phenotypes will you see in the first generation of chicks? ",
-        "answer": " Y) EACH OF THE CHICKS WILL BE BLACK AND WHITE IN ABOUT EQUAL PROPORTIONS  \t       ",
+        "answer": " Y) EACH OF THE CHICKS WILL BE BLACK AND WHITE IN ABOUT EQUAL PROPORTIONS  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " All of the chicks will be gray ",
@@ -64667,7 +64667,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 17",
         "question": " What is the most abundant element in the universe? ",
-        "answer": " HYDROGEN _________________ ",
+        "answer": " HYDROGEN  ",
         "choices": {},
         "id": 3785
       },
@@ -64695,7 +64695,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 18",
         "question": " What is the purpose of a confirmation well? ",
-        "answer": " Y) TO VERIFY THAT A FORMATION HAS ENOUGH HYDROCARBONS TO MAKE IT WORTH DEVELOPING  \t       ",
+        "answer": " Y) TO VERIFY THAT A FORMATION HAS ENOUGH HYDROCARBONS TO MAKE IT WORTH DEVELOPING  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " To verify that the site will physically support a drilling platform ",
@@ -64729,7 +64729,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 19",
         "question": " What is the product of the first three even negative integers? ",
-        "answer": " - 48 _________________ ",
+        "answer": " - 48  ",
         "choices": {},
         "id": 3789
       },
@@ -64763,7 +64763,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 20",
         "question": " Which of the following is a type of metamorphic rock that is created from sandstone? ",
-        "answer": " Z) QUARTZITE  \t       ",
+        "answer": " Z) QUARTZITE  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Andesite (read as:AHN-di-zyt ) ",
@@ -64803,7 +64803,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 21",
         "question": " Name two forms of potential energy. ",
-        "answer": " (ACCEPT TWO) CHEMICAL, MECHANICAL, NUCLEAR, GRAVITATIONAL OR ELECTRICAL _________________ ",
+        "answer": " (ACCEPT TWO) CHEMICAL, MECHANICAL, NUCLEAR, GRAVITATIONAL OR ELECTRICAL  ",
         "choices": {},
         "id": 3793
       },
@@ -64831,7 +64831,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 22",
         "question": " Which of the following is true about the use of boiling chips in an experiments? ",
-        "answer": " W) THE ADDITION OF BOILING CHIPS INCREASES THE SAFETY OF THE BOILING PROCESS  \t       ",
+        "answer": " W) THE ADDITION OF BOILING CHIPS INCREASES THE SAFETY OF THE BOILING PROCESS  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " The addition of boiling chips increases the safety of the boiling process ",
@@ -64865,7 +64865,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 23",
         "question": " By name or number, indicate which one or ones of the following biomes that animals with thick fur and large amounts of fat storage would most likely live in: 1) coniferous forest, 2) savannah, 3) rainforest, 4) tundra, and/or 5) temperate forest. ",
-        "answer": " CONIFEROUS FOREST AND TUNDRA (ACCEPT: 1 AND 4) _________________ ",
+        "answer": " CONIFEROUS FOREST AND TUNDRA (ACCEPT: 1 AND 4)  ",
         "choices": {},
         "id": 3797
       },
@@ -64899,7 +64899,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 24",
         "question": " Which part of Earth’s atmosphere is farthest from Earth’s surface? ",
-        "answer": " X) EXOSPHERE  \t       ",
+        "answer": " X) EXOSPHERE  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Stratosphere ",
@@ -68266,7 +68266,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 1",
         "question": " Which of the following statements about squares is NOT true? ",
-        "answer": " Z) A SQUARE’S DIAGONALS ARE EQUAL TO ITS SIDE LENGTHS _________________ ",
+        "answer": " Z) A SQUARE’S DIAGONALS ARE EQUAL TO ITS SIDE LENGTHS  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " A square is a rectangle ",
@@ -68300,7 +68300,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 2",
         "question": " What type of muscle is the intestine? ",
-        "answer": " SMOOTH  \t       ",
+        "answer": " SMOOTH  ",
         "choices": {},
         "id": 4000
       },
@@ -68334,7 +68334,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 3",
         "question": " The energy from heat can be transferred in any of three ways. Name these three ways. ",
-        "answer": " CONDUCTION, CONVECTION, RADIATION _________________ ",
+        "answer": " CONDUCTION, CONVECTION, RADIATION  ",
         "choices": {},
         "id": 4002
       },
@@ -68362,7 +68362,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 4",
         "question": " El Niño and La Niña conditions are a result of surface temperature anomalies in which ocean basin? ",
-        "answer": " THE PACIFIC OCEAN  \t       ",
+        "answer": " THE PACIFIC OCEAN  ",
         "choices": {},
         "id": 4004
       },
@@ -68390,7 +68390,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 5",
         "question": " As a fraction in simplest form, what is the slope of the line through the points (2, 5) and (7, 9)? ",
-        "answer": " 4/5 _________________ ",
+        "answer": " 4/5  ",
         "choices": {},
         "id": 4006
       },
@@ -68424,7 +68424,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 6",
         "question": " What characteristic is most likely to identify two organisms as the same species? ",
-        "answer": " Z) MATING PRODUCES FERTILE OFFSPRING  \t       ",
+        "answer": " Z) MATING PRODUCES FERTILE OFFSPRING  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " All of their physical characteristics are very similar ",
@@ -68458,7 +68458,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 7",
         "question": " Thomas Edison improved upon a 50-year-old idea of electric light, inventing an electric lighting system that contained all the elements necessary to make incandescent light practical, safe, and economical. Which of the following was NOT included in his inventions? ",
-        "answer": " Z) ELECTRIC GENERATOR _________________ ",
+        "answer": " Z) ELECTRIC GENERATOR  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Parallel circuit ",
@@ -68492,7 +68492,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 8",
         "question": " The Appalachian Mountains stretch from Newfoundland in the north to which two states in the south? ",
-        "answer": " ALABAMA AND GEORGIA  \t       ",
+        "answer": " ALABAMA AND GEORGIA  ",
         "choices": {},
         "id": 4012
       },
@@ -68520,7 +68520,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 9",
         "question": " What would the outer perimeter be in inches of a picture frame that is two inches wider all the way around a picture that measures 12 inches by 18 inches? ",
-        "answer": " 76 _________________ ",
+        "answer": " 76  ",
         "choices": {},
         "id": 4014
       },
@@ -68554,7 +68554,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 10",
         "question": " What is the general term for the alteration of land to desert-like conditions as the result of human activities? ",
-        "answer": " DESERTIFICATION  \t       ",
+        "answer": " DESERTIFICATION  ",
         "choices": {},
         "id": 4016
       },
@@ -68588,7 +68588,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 11",
         "question": " What are the three states of matter that are fluids? ",
-        "answer": " GASES, LIQUIDS, AND PLASMA _________________ ",
+        "answer": " GASES, LIQUIDS, AND PLASMA  ",
         "choices": {},
         "id": 4018
       },
@@ -68616,7 +68616,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 12",
         "question": " The surface area of the Earth is 510,000,000 square kilometers. If 30% of the Earth's surface is land mass, how many square kilometers are covered in water? ",
-        "answer": " 357,000,000  \t       ",
+        "answer": " 357,000,000  ",
         "choices": {},
         "id": 4020
       },
@@ -68650,7 +68650,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 13",
         "question": " In eukaryotic cells, where does cellular respiration take place? ",
-        "answer": " Z) MITOCHONDRIA _________________ ",
+        "answer": " Z) MITOCHONDRIA  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Nucleus ",
@@ -68684,7 +68684,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 14",
         "question": " What is the primary component of Saturn’s rings? ",
-        "answer": " WATER ICE  \t       ",
+        "answer": " WATER ICE  ",
         "choices": {},
         "id": 4024
       },
@@ -68712,7 +68712,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 15",
         "question": " Which of the following is NOT an example of an organ system? ",
-        "answer": " Y) BONE _________________ ",
+        "answer": " Y) BONE  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Muscular ",
@@ -68746,7 +68746,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 16",
         "question": " Which of the following is NOT true about mechanical energy? ",
-        "answer": " X) MECHANICAL ENERGY POSSESSES ENERGY STORED IN FUEL  \t       ",
+        "answer": " X) MECHANICAL ENERGY POSSESSES ENERGY STORED IN FUEL  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Mechanical energy represents the sum of an object’s kinetic and potential energies in a mechanical system ",
@@ -68786,7 +68786,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 17",
         "question": " Of the following colors, which one has the longest wavelength? ",
-        "answer": " W) ORANGE _________________ ",
+        "answer": " W) ORANGE  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Orange ",
@@ -68826,7 +68826,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 18",
         "question": " If you travel toward a loudspeaker playing a sound at 500 hertz, which of the following may be the frequency of sound you hear, in hertz? ",
-        "answer": " Z) 600  \t       ",
+        "answer": " Z) 600  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " 50 ",
@@ -68860,7 +68860,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 19",
         "question": " Chemically, what is the difference between limestone and dolomite? ",
-        "answer": " W) LIMESTONE IS A CARBONATE ROCK CONTAINING ONLY CALCIUM, WHILE DOLOMITE CONTAINS BOTH CALCIUM AND MAGNESIUM _________________ ",
+        "answer": " W) LIMESTONE IS A CARBONATE ROCK CONTAINING ONLY CALCIUM, WHILE DOLOMITE CONTAINS BOTH CALCIUM AND MAGNESIUM  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Limestone is a carbonate rock containing only calcium, while dolomite contains both calcium and magnesium ",
@@ -68900,7 +68900,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": "20",
         "question": " Which of the following statements is correct? ",
-        "answer": " W) A TRIANGLE CAN BE BOTH ACUTE AND EQUILATERAL  \t       ",
+        "answer": " W) A TRIANGLE CAN BE BOTH ACUTE AND EQUILATERAL  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " A triangle can be both acute and equilateral ",
@@ -68934,7 +68934,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 21",
         "question": " Which of the following reactions always releases heat? ",
-        "answer": " Z) EXOTHERMIC _________________ ",
+        "answer": " Z) EXOTHERMIC  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Spontaneous ",
@@ -68974,7 +68974,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 22",
         "question": " What structure, responsible for making ribosomes, is found inside the nucleus? ",
-        "answer": " NUCLEOLUS  \t       ",
+        "answer": " NUCLEOLUS  ",
         "choices": {},
         "id": 4040
       },
@@ -69002,7 +69002,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 23",
         "question": " Put these values in order from least to greatest: 0.99, 1.25, 14/15, 0.0099, -17. ",
-        "answer": " -17, 0.0099, 14/15, 0.99, 1.25 _________________ ",
+        "answer": " -17, 0.0099, 14/15, 0.99, 1.25  ",
         "choices": {},
         "id": 4042
       },
@@ -69036,7 +69036,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 24",
         "question": " By 2050, what is projected to be the world’s approximate total annual power demand in terawatts? ",
-        "answer": " X) 30  39 12  . What is n as a mixed number  \t       ",
+        "answer": " X) 30  39 12  . What is n as a mixed number  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " 20 ",
@@ -70743,7 +70743,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 1",
         "question": " By name or number, which of the following information can be detected with an electron microscope: 1) topography, 2) morphology, 3) composition, or 4) crystallographic information? ",
-        "answer": " TOPOGRAPHY, MORPHOLOGY, COMPOSITION, OR CRYSTALLOGRAPHIC INFORMATION (ACCEPT: 1, 2, 3, 4, OR ALL) _________________ ",
+        "answer": " TOPOGRAPHY, MORPHOLOGY, COMPOSITION, OR CRYSTALLOGRAPHIC INFORMATION (ACCEPT: 1, 2, 3, 4, OR ALL)  ",
         "choices": {},
         "id": 4145
       },
@@ -70777,7 +70777,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 2",
         "question": " Simplify: 0.99 - 0.0099 (read as: 99 hun-DREDTHS minus 99 ten thous-ANDTHS). ",
-        "answer": " 0.9801 (read as: 99 hun-DREDTHS minus  \t       ",
+        "answer": " 0.9801 (read as: 99 hun-DREDTHS minus  ",
         "choices": {},
         "id": 4147
       },
@@ -70805,7 +70805,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 3",
         "question": " Hurricane winds rotate in the opposite direction in the Southern Hemisphere due to: ",
-        "answer": " X) THE CORIOLIS EFFECT _________________ ",
+        "answer": " X) THE CORIOLIS EFFECT  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " The cyclonic force ",
@@ -70845,7 +70845,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 4",
         "question": " Which of the following is NOT likely to change in response to an increase in atmospheric carbon dioxide? ",
-        "answer": " W) BAROMETRIC PRESSURE  \t       ",
+        "answer": " W) BAROMETRIC PRESSURE  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Barometric pressure ",
@@ -70885,7 +70885,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 5",
         "question": " What gas makes up the majority of our atmosphere? ",
-        "answer": " NITROGEN _________________ ",
+        "answer": " NITROGEN  ",
         "choices": {},
         "id": 4153
       },
@@ -70913,7 +70913,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 6",
         "question": " What is the approximate range of the pH scale? ",
-        "answer": " 0 TO 14  \t       ",
+        "answer": " 0 TO 14  ",
         "choices": {},
         "id": 4155
       },
@@ -70941,7 +70941,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 7",
         "question": " Name the organ that spiders and many insect larvae use to build webs, make protective cocoons, and even to help catch the wind in order to fly. ",
-        "answer": " SPINNERET _________________ ",
+        "answer": " SPINNERET  ",
         "choices": {},
         "id": 4157
       },
@@ -70975,7 +70975,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 8",
         "question": " When larvae emerge from fruit fly eggs, where do they tend to feed? ",
-        "answer": " W) NEAR THE SURFACE OF THE FERMENTING FRUIT  \t       ",
+        "answer": " W) NEAR THE SURFACE OF THE FERMENTING FRUIT  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Near the surface of the fermenting fruit ",
@@ -71015,7 +71015,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 9",
         "question": " Name the insoluble siliceous nodules that can form within limestone. ",
-        "answer": " CHERT _________________ ",
+        "answer": " CHERT  ",
         "choices": {},
         "id": 4161
       },
@@ -71049,7 +71049,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 10",
         "question": " Which of the following mammals has the greatest diploid number of chromosomes? ",
-        "answer": " W) AQUATIC RAT  \t       ",
+        "answer": " W) AQUATIC RAT  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Aquatic rat ",
@@ -71089,7 +71089,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 11",
         "question": " What type of organism obtains organic carbon for growth by consuming other organisms? ",
-        "answer": " HETEROTROPH _________________ ",
+        "answer": " HETEROTROPH  ",
         "choices": {},
         "id": 4165
       },
@@ -71123,7 +71123,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 12",
         "question": " Dry ice is the solid form of what compound? ",
-        "answer": " CARBON DIOXIDE  \t       ",
+        "answer": " CARBON DIOXIDE  ",
         "choices": {},
         "id": 4167
       },
@@ -71151,7 +71151,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 13",
         "question": " The velocity-time graph of a body that starts from rest and moves away from the origin with constant positive acceleration appears as: ",
-        "answer": " W) A STRAIGHT LINE WITH POSITIVE SLOPE _________________ ",
+        "answer": " W) A STRAIGHT LINE WITH POSITIVE SLOPE  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " A straight line with positive slope ",
@@ -71191,7 +71191,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 14",
         "question": " The salinity of the ocean is rarely measured directly. What characteristic of the water is measured as a proxy for salinity? ",
-        "answer": " CONDUCTIVITY  \t       ",
+        "answer": " CONDUCTIVITY  ",
         "choices": {},
         "id": 4171
       },
@@ -71219,7 +71219,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 15",
         "question": " Sam has 2 quarters, 4 dimes, 2 nickels, and 1 penny in his pocket. Expressing your answer as a fraction in lowest terms, if he reaches into his pocket and randomly pulls out a coin, what is the probability that the coin will be a penny or a dime? ",
-        "answer": " 5/9 _________________ ",
+        "answer": " 5/9  ",
         "choices": {},
         "id": 4173
       },
@@ -71247,7 +71247,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 16",
         "question": " Which of the following units is used to measure the diameter of protons? ",
-        "answer": " X) FEMTOMETER  \t       ",
+        "answer": " X) FEMTOMETER  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Attometer ",
@@ -71321,7 +71321,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 18",
         "question": " What is the cube root of 343? ",
-        "answer": " 7  \t       ",
+        "answer": " 7  ",
         "choices": {},
         "id": 4179
       },
@@ -71355,7 +71355,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 19",
         "question": " A passenger is sitting in a train that accelerates from a full stop. As it moves, there are a number of sounds associated with the acceleration of the train. Compare the frequency of those sounds to the frequency actually heard by the passenger. ",
-        "answer": " Z) IT WILL NOT BE DIFFERENT _________________ ",
+        "answer": " Z) IT WILL NOT BE DIFFERENT  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " It will be lower ",
@@ -71429,7 +71429,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": "  21",
         "question": " If a 4-inch plant grows at the rate of days will the plant reach 48 inches? ",
-        "answer": " 176  1 4  inch per day, in how many  _________________ ",
+        "answer": " 176  1 4  inch per day, in how many   ",
         "choices": {},
         "id": 4185
       },
@@ -71491,7 +71491,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 23",
         "question": " The purpose of a generator in a power plant is to convert one type of energy into another type. What are these two types of energy? ",
-        "answer": " Y) MECHANICAL TO ELECTRICAL _________________ ",
+        "answer": " Y) MECHANICAL TO ELECTRICAL  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Electrical to chemical ",
@@ -71525,7 +71525,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 24",
         "question": " Which of the following minerals is present in the highest concentrations in granite? ",
-        "answer": " Y) QUARTZ  \t       ",
+        "answer": " Y) QUARTZ  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Pyroxene ",
@@ -73214,7 +73214,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 1",
         "question": " At incredibly low temperatures near 0 Kelvin, atoms coalesce into what substance? ",
-        "answer": " BOSE-EINSTEIN CONDENSATE _________________ ",
+        "answer": " BOSE-EINSTEIN CONDENSATE  ",
         "choices": {},
         "id": 4292
       },
@@ -73248,7 +73248,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 2",
         "question": " You discover an igneous (read as: IG-nee-ehs) rock with a course-grained texture and the appearance of a mass of intergrown crystals of similar size. At which of the following locations did magma most likely solidify? ",
-        "answer": " Y) FAR BELOW THE SURFACE  \t       ",
+        "answer": " Y) FAR BELOW THE SURFACE  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " In the ocean ",
@@ -73288,7 +73288,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 3",
         "question": " An organism’s way of life, including its habitat, food, predators, and other organisms it competes with for resources make up an organism’s: ",
-        "answer": " X) NICHE _________________ ",
+        "answer": " X) NICHE  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Ecosystem ",
@@ -73328,7 +73328,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 4",
         "question": " In what state of matter are convection currents unable to transfer heat? ",
-        "answer": " SOLID  \t       ",
+        "answer": " SOLID  ",
         "choices": {},
         "id": 4298
       },
@@ -73356,7 +73356,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 5",
         "question": " The Earth’s crust accounts for about what percentage of the Earth’s volume? ",
-        "answer": " W) 1% _________________ ",
+        "answer": " W) 1%  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " 1% ",
@@ -73390,7 +73390,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 6",
         "question": " Which of the following household appliances uses the least amount of energy over the course of a year? ",
-        "answer": " Z) DISHWASHER  \t       ",
+        "answer": " Z) DISHWASHER  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Refrigerator ",
@@ -73452,7 +73452,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 8",
         "question": " According to the laws of entropy, all useful forms of energy are converted into what form of energy? ",
-        "answer": " HEAT  \t       ",
+        "answer": " HEAT  ",
         "choices": {},
         "id": 4306
       },
@@ -73486,7 +73486,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 9",
         "question": " What rock type would you not expect to find on the Moon? ",
-        "answer": " X) LAYERED SEDIMENTARY ROCK _________________ ",
+        "answer": " X) LAYERED SEDIMENTARY ROCK  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Rock similar in composition to Earth’s mantle ",
@@ -73520,7 +73520,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 10",
         "question": " Where is the geometric center of a cube? ",
-        "answer": " Z) IT IS AT THE POINT OF INTERSECTION OF THE CUBE’S DIAGONALS  \t       ",
+        "answer": " Z) IT IS AT THE POINT OF INTERSECTION OF THE CUBE’S DIAGONALS  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " It is at the center of its face ",
@@ -73560,7 +73560,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 11",
         "question": " The reactivity of an element depends predominantly on its: ",
-        "answer": " X) VALENCE ELECTRON CONFIGURATION _________________ ",
+        "answer": " X) VALENCE ELECTRON CONFIGURATION  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Atomic mass ",
@@ -73594,7 +73594,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 12",
         "question": " Which of the following organisms is considered to be a crustacean? ",
-        "answer": " Y) COPEPOD  \t       ",
+        "answer": " Y) COPEPOD  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Jellyfish ",
@@ -73634,7 +73634,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 13",
         "question": " Rectangle A has a length of 53 inches and a height of 28 inches. If rectangle B is similar to A such that the scale factor of B to A is 5 to 1, what is the perimeter of rectangle B in inches? ",
-        "answer": " 810 _________________ ",
+        "answer": " 810  ",
         "choices": {},
         "id": 4316
       },
@@ -73662,7 +73662,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 14",
         "question": " An observer is watching a train pass. As the train approaches the observer, in what way will the frequency of the sound emanating from the train appear to change relative to the observer? ",
-        "answer": " X) IT WILL BE HIGHER  \t       ",
+        "answer": " X) IT WILL BE HIGHER  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " It will be lower ",
@@ -73702,7 +73702,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 15",
         "question": " What does the law of conservation of energy tell us about the total amount of energy in a closed system? ",
-        "answer": " IT DOESN'T CHANGE (ACCEPT: IT IS CONSTANT) _________________ ",
+        "answer": " IT DOESN'T CHANGE (ACCEPT: IT IS CONSTANT)  ",
         "choices": {},
         "id": 4320
       },
@@ -73736,7 +73736,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 16",
         "question": " If you double a number, then double that result, and continue that doubling process, how many times must you double a number in order to make the result greater than 10 times the original number? ",
-        "answer": " 4  \t       ",
+        "answer": " 4  ",
         "choices": {},
         "id": 4322
       },
@@ -73764,7 +73764,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 17",
         "question": " Which of the following statements is NOT true about the kingdom Fungi? ",
-        "answer": " W) FUNGI ARE MORE CLOSELY RELATED TO PLANTS THAN ANIMALS _________________ ",
+        "answer": " W) FUNGI ARE MORE CLOSELY RELATED TO PLANTS THAN ANIMALS  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Fungi are more closely related to plants than animals ",
@@ -73804,7 +73804,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 18",
         "question": " The presence of which of the following in the ocean best explains why electrical current is generally better conducted through the ocean than a freshwater lake. ",
-        "answer": " W) DISSOLVED SALT  \t       ",
+        "answer": " W) DISSOLVED SALT  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Dissolved salt ",
@@ -73844,7 +73844,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 19",
         "question": " Fossil fuels form through the decomposition of organic materials. You’re studying a map that shows ancient environments. If you went hunting tomorrow for fossil fuels, which of these ancient habitats would you avoid? ",
-        "answer": " W) DESERT _________________ ",
+        "answer": " W) DESERT  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Desert ",
@@ -73878,7 +73878,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 20",
         "question": " What is the fifth positive integer multiple of 252? ",
-        "answer": " 1260 (read as: one third divided by one sixth)  \t       ",
+        "answer": " 1260 (read as: one third divided by one sixth)  ",
         "choices": {},
         "id": 4330
       },
@@ -73912,7 +73912,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 21",
         "question": " Which of the following issues do humans have the most control over when contemplating the release of transgenic animals into the wild? ",
-        "answer": " Z) VIABILITY OF TRANSGENIC FISH _________________ ",
+        "answer": " Z) VIABILITY OF TRANSGENIC FISH  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Competition between transgenic and wild populations ",
@@ -73946,7 +73946,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 22",
         "question": " Two isotopes of the same element differ with respect to which of the following? ",
-        "answer": " Y) NUMBER OF NEUTRONS  \t       ",
+        "answer": " Y) NUMBER OF NEUTRONS  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Number of protons ",
@@ -73986,7 +73986,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 23",
         "question": " Which of the following is true about deep mid-ocean ridge ecosystems? ",
-        "answer": " Y) THE SOURCE OF ENERGY IS CHEMICAL ENERGY FROM HYDROTHERMAL VENTS OF THE SEAFLOOR _________________ ",
+        "answer": " Y) THE SOURCE OF ENERGY IS CHEMICAL ENERGY FROM HYDROTHERMAL VENTS OF THE SEAFLOOR  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " There are no primary producers, only consumers and decomposers ",
@@ -74080,7 +74080,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 1",
         "question": " If you drop a tennis ball from the first-story window of a building, it has less and less of which form of energy as it falls? ",
-        "answer": " GRAVITATIONAL POTENTIAL ENERGY (ACCEPT: POTENTIAL ENERGY) _________________ ",
+        "answer": " GRAVITATIONAL POTENTIAL ENERGY (ACCEPT: POTENTIAL ENERGY)  ",
         "choices": {},
         "id": 4341
       },
@@ -74114,7 +74114,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 2",
         "question": " Which of the following meals would give humans most of the nutrients needed in a day? ",
-        "answer": " Y) BREAD, VEGETABLES, AND FISH  \t       ",
+        "answer": " Y) BREAD, VEGETABLES, AND FISH  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Vegetables, fruit, and water ",
@@ -74154,7 +74154,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 3",
         "question": " Which of the following characteristics best describes metals? ",
-        "answer": " X) LUSTROUS, MALLEABLE, AND ARE GOOD CONDUCTORS _________________ ",
+        "answer": " X) LUSTROUS, MALLEABLE, AND ARE GOOD CONDUCTORS  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Brittle, highly reactive, and have low melting points ",
@@ -74188,7 +74188,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 4",
         "question": " Which type of wave interference will give you a flat line? ",
-        "answer": " DESTRUCTIVE INTERFERENCE  \t       ",
+        "answer": " DESTRUCTIVE INTERFERENCE  ",
         "choices": {},
         "id": 4347
       },
@@ -74216,7 +74216,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 5",
         "question": " What is 909,888,000,000 written in scientific notation with three significant digits? ",
-        "answer": " 9.10 _________________ ",
+        "answer": " 9.10  ",
         "choices": {},
         "id": 4349
       },
@@ -74250,7 +74250,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 6",
         "question": " Why are there no deep-sea trenches off the east coast of the United States? ",
-        "answer": " Y) THE EASTERN COAST OF THE UNITED STATES IS IN THE MIDDLE OF THE NORTH AMERICAN PLATE, NOT AT A PLATE MARGIN WHERE TRENCHES CAN OCCUR  \t       ",
+        "answer": " Y) THE EASTERN COAST OF THE UNITED STATES IS IN THE MIDDLE OF THE NORTH AMERICAN PLATE, NOT AT A PLATE MARGIN WHERE TRENCHES CAN OCCUR  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " There are no trenches in the Atlantic Ocean; trenches exist only in the Pacific Ocean ",
@@ -74284,7 +74284,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 7",
         "question": " You are using a dichotomous key to identify a leaf you have picked up. You observe that you have a leaf with several main veins of about equal size, all of which extend from a common point at the base of the blade. Your leaf could be from which of the following trees? ",
-        "answer": " W) MAPLE _________________ ",
+        "answer": " W) MAPLE  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Maple ",
@@ -74318,7 +74318,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 8",
         "question": " How many different ways can four people stand in a line? ",
-        "answer": " 24  \t       ",
+        "answer": " 24  ",
         "choices": {},
         "id": 4355
       },
@@ -74352,7 +74352,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 9",
         "question": " Which of the following is NOT a reason people are deciding to change incandescent bulbs to fluorescent bulbs? W) Fluorescent bulbs consume less power than incandescent bulbs X) Fluorescent bulbs last longer than incandescent bulbs Y) Fluorescent bulbs produce warmer light than incandescent bulbs Z) Fluorescent bulbs have a lower lifetime cost than incandescent bulbs ",
-        "answer": " Y) FLUORESCENT BULBS PRODUCE WARMER LIGHT THAN INCANDESCENT BULBS* * [NOTE: INCANDESCENT LIGHTS PRODUCE WARMER LIGHT. SEE EERE.ENERGY.GOV]  _________________ ",
+        "answer": " Y) FLUORESCENT BULBS PRODUCE WARMER LIGHT THAN INCANDESCENT BULBS* * [NOTE: INCANDESCENT LIGHTS PRODUCE WARMER LIGHT. SEE EERE.ENERGY.GOV]   ",
         "choices": {},
         "id": 4357
       },
@@ -74380,7 +74380,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 10",
         "question": " What ion has 17 protons and 18 electrons? ",
-        "answer": " CHLORIDE (ACCEPT: CL-)  \t       ",
+        "answer": " CHLORIDE (ACCEPT: CL-)  ",
         "choices": {},
         "id": 4359
       },
@@ -74408,7 +74408,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 11",
         "question": " What is the shape of ",
-        "answer": " ELLIPSE _________________ ",
+        "answer": " ELLIPSE  ",
         "choices": {},
         "id": 4361
       },
@@ -74442,7 +74442,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 12",
         "question": " After a forest fire, what specific type of succession rebuilds the ecosystem? ",
-        "answer": " X) SECONDARY + = 1?  \t       ",
+        "answer": " X) SECONDARY + = 1?  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Pioneer ",
@@ -74476,7 +74476,7 @@ export class QuestionBank {
         "category": " ENERGY ",
         "questionNumber": " 13",
         "question": " What is friction called when dealing with solids moving through a fluid? ",
-        "answer": " DRAG _________________ ",
+        "answer": " DRAG  ",
         "choices": {},
         "id": 4365
       },
@@ -74510,7 +74510,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 14",
         "question": " In which of the following regions of the world will you likely find surface ocean water that is high in salinity and temperature but low in productivity? ",
-        "answer": " W) MIDDLE OF THE ATLANTIC, NORTH OF THE EQUATORIAL WATERS  \t       ",
+        "answer": " W) MIDDLE OF THE ATLANTIC, NORTH OF THE EQUATORIAL WATERS  ",
         "multipleChoiceAnswer": "W",
         "choices": {
           "W": " Middle of the Atlantic, north of the equatorial waters ",
@@ -74544,7 +74544,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 15",
         "question": " A rhombus has side lengths of 15 centimeters, a diagonal of 24 centimeters, and another diagonal of 18 centimeters. What is its area in square centimeters? ",
-        "answer": " 216 _________________ ",
+        "answer": " 216  ",
         "choices": {},
         "id": 4369
       },
@@ -74578,7 +74578,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 16",
         "question": " The oxygen released by plants and other autotrophs (read as: AW-toh-trōefs) comes from which compound? ",
-        "answer": " X) WATER  \t       ",
+        "answer": " X) WATER  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Carbon dioxide ",
@@ -74612,7 +74612,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 17",
         "question": " As part of the scientific method, scientists frequently repeat other scientists’ experiments. By name or number, which of the following factors would never be a reason to repeat another scientist’s experiment: 1) to collect more data to prove the hypothesis was true, 2) to validate the initial results, 3) to gain a deeper understanding of the problem, and/or 4) to satisfy one’s curiosity. ",
-        "answer": " TO COLLECT MORE DATA TO PROVE THE HYPOTHESIS WAS TRUE (ACCEPT: 1) _________________ ",
+        "answer": " TO COLLECT MORE DATA TO PROVE THE HYPOTHESIS WAS TRUE (ACCEPT: 1)  ",
         "choices": {},
         "id": 4373
       },
@@ -74646,7 +74646,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 18",
         "question": " What is primarily responsible for the blue clouds of Neptune? ",
-        "answer": " METHANE  \t       ",
+        "answer": " METHANE  ",
         "choices": {},
         "id": 4375
       },
@@ -74680,7 +74680,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 19",
         "question": " Suppose you have an equilateral triangle with a base of 2 inches. Which of the following is true? ",
-        "answer": " Z) THE TRIANGLE IS SIMILAR TO ALL EQUILATERAL TRIANGLES _________________ ",
+        "answer": " Z) THE TRIANGLE IS SIMILAR TO ALL EQUILATERAL TRIANGLES  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " The other sides of the triangle are 1 inch ",
@@ -74720,7 +74720,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 20",
         "question": " Which property of water refers to its ability to stick to other substances? ",
-        "answer": " ADHESION  \t       ",
+        "answer": " ADHESION  ",
         "choices": {},
         "id": 4379
       },
@@ -74754,7 +74754,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 21",
         "question": " Our Solar System orbits the center of our Milky Way Galaxy. One full revolution takes about 200-250 million years. The last time our solar system was where it is now, what was occurring here on Earth? ",
-        "answer": " X) PANGAEA WAS JUST BREAKING UP INTO THE CONTINENTS WE KNOW TODAY _________________ ",
+        "answer": " X) PANGAEA WAS JUST BREAKING UP INTO THE CONTINENTS WE KNOW TODAY  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Humans were trying to survive with dinosaurs ",
@@ -74788,7 +74788,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 22",
         "question": " Which of the following is the SI (read as: S-eye) unit prefix that represents the largest power of 10? ",
-        "answer": " Y) PETA  \t       ",
+        "answer": " Y) PETA  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Giga ",
@@ -74828,7 +74828,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 23",
         "question": " What do the letters TP stand for in the acronym ATP? ",
-        "answer": " TRIPHOSPHATE _________________ ",
+        "answer": " TRIPHOSPHATE  ",
         "choices": {},
         "id": 4385
       },
@@ -74856,7 +74856,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 24",
         "question": " Which of the following describes molecules in solid phase? ",
-        "answer": " Z) MOLECULAR MOTION IS HIGHLY RESTRICTED; THEY CAN ONLY VIBRATE IN PLACE  \t       ",
+        "answer": " Z) MOLECULAR MOTION IS HIGHLY RESTRICTED; THEY CAN ONLY VIBRATE IN PLACE  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Molecules are not in contact with each other and move freely, rapidly, and randomly ",
@@ -76558,7 +76558,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 1",
         "question": " Name three types of friction. ",
-        "answer": " (ACCEPT 3) DRY, STATIC, LIMITING, SLIDING, KINETIC, ROLLING, FLUID, LUBRICATED, SKIN, INTERNAL _________________ ",
+        "answer": " (ACCEPT 3) DRY, STATIC, LIMITING, SLIDING, KINETIC, ROLLING, FLUID, LUBRICATED, SKIN, INTERNAL  ",
         "choices": {},
         "id": 4488
       },
@@ -76620,7 +76620,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 3",
         "question": " What is the sum of the measures of all interior angles of a regular hexagon and a regular octagon? ",
-        "answer": " 1800 _________________ ",
+        "answer": " 1800  ",
         "choices": {},
         "id": 4492
       },
@@ -76688,7 +76688,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 5",
         "question": " At a given temperature, the velocity of gases is: ",
-        "answer": " Y) INVERSELY PROPORTIONAL TO MOLECULAR MASS _________________ ",
+        "answer": " Y) INVERSELY PROPORTIONAL TO MOLECULAR MASS  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " Directly proportional to molecular size ",
@@ -76756,7 +76756,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 7",
         "question": " What are the two most defining features of a eukaryotic (read as: yuh-KEHR-ee-ōetik) cell? ",
-        "answer": " NUCLEUS (DO NOT ACCEPT: NUCLEOID) AND TRUE MEMBRANE-BOUND ORGANELLES _________________ ",
+        "answer": " NUCLEUS (DO NOT ACCEPT: NUCLEOID) AND TRUE MEMBRANE-BOUND ORGANELLES  ",
         "choices": {},
         "id": 4500
       },
@@ -76818,7 +76818,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 9",
         "question": " The San Andreas Fault, which runs along most of the coast of California, is an example of what type of fault: normal, thrust, or strike-slip? ",
-        "answer": " STRIKE-SLIP _________________ ",
+        "answer": " STRIKE-SLIP  ",
         "choices": {},
         "id": 4504
       },
@@ -76880,7 +76880,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 11",
         "question": " Protist habitats are often characterized by the presence of which of the following? ",
-        "answer": " X) MOISTURE _________________ ",
+        "answer": " X) MOISTURE  ",
         "multipleChoiceAnswer": "X",
         "choices": {
           "W": " Soil ",
@@ -76954,7 +76954,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 13",
         "question": " On a coordinate grid, a line segment has endpoints ( -1, 2) and (3, -4). What are the coordinates of the midpoint of the segment? ",
-        "answer": " (1, -1) _________________ ",
+        "answer": " (1, -1)  ",
         "choices": {},
         "id": 4512
       },
@@ -77016,7 +77016,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 15",
         "question": " Which of the following is true about air over the north and south poles? ",
-        "answer": " Z) IT SINKS, CREATING A HIGH PRESSURE SYSTEM NEAR THE SURFACE _________________ ",
+        "answer": " Z) IT SINKS, CREATING A HIGH PRESSURE SYSTEM NEAR THE SURFACE  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " It evaporates at a much faster rate than air found elsewhere ",
@@ -77084,7 +77084,7 @@ export class QuestionBank {
         "category": " GENERAL SCIENCE ",
         "questionNumber": " 17",
         "question": " Which of the following substances does not react with either vinegar or iodine? ",
-        "answer": " Z) POWDERED SUGAR _________________ ",
+        "answer": " Z) POWDERED SUGAR  ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " Baking soda ",
@@ -77152,7 +77152,7 @@ export class QuestionBank {
         "category": " EARTH AND SPACE SCIENCE ",
         "questionNumber": " 19",
         "question": " Diamonds are formed when carbon-based material is exposed to high pressures and comparatively low temperatures. Where are these two types of environments found on Earth? ",
-        "answer": " LITHOSPHERIC MANTLE (ACCEPT: BELOW CONTINENTAL PLATES), SITE OF A METEORITE IMPACT _________________ ",
+        "answer": " LITHOSPHERIC MANTLE (ACCEPT: BELOW CONTINENTAL PLATES), SITE OF A METEORITE IMPACT  ",
         "choices": {},
         "id": 4524
       },
@@ -77226,7 +77226,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 21",
         "question": " A bag of lawn fertilizer covers 2500 square feet. How many bags of fertilizer would you need to share with your neighbor if your lawn was 175 feet by 200 feet and your neighbor’s yard was 150 feet by 150 feet? ",
-        "answer": " 23 _________________ ",
+        "answer": " 23  ",
         "choices": {},
         "id": 4528
       },
@@ -77294,7 +77294,7 @@ export class QuestionBank {
         "category": " PHYSICAL SCIENCE ",
         "questionNumber": " 23",
         "question": " In nuclear chemistry, a mass defect exists due to: ",
-        "answer": " Y) NUCLEAR BINDING ENERGY _________________ ",
+        "answer": " Y) NUCLEAR BINDING ENERGY  ",
         "multipleChoiceAnswer": "Y",
         "choices": {
           "W": " The high energy of electrons ",
@@ -98342,7 +98342,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 20",
-        "question": " Find the value of x2 – y2 when x = -5 and y = -2: ",
+        "question": " Find the value of x^2 – y^2 when x = -5 and y = -2: ",
         "answer": " 21        ",
         "choices": {},
         "id": 5800
@@ -98555,7 +98555,7 @@ export class QuestionBank {
         "category": " LIFE SCIENCE ",
         "questionNumber": " 2",
         "question": " In many arthropods, the segments of the body are grouped into 3 distinct parts. Name all three parts: ",
-        "answer": " HEAD, THORAX, AND ABDOMEN        ",
+        "answer": " HEAD, THORAX, AND ABDOMEN ",
         "choices": {},
         "id": 5813
       },
@@ -99604,7 +99604,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 8",
-        "question": " Solve the following equation:  3x = -12 4  ",
+        "question": " Solve the following equation:  3x / 4 = -12 ",
         "answer": " -16  ",
         "choices": {},
         "id": 5873
@@ -101446,7 +101446,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 13",
-        "question": " Solve the following equation:  x = -8 6  ",
+        "question": " Solve the following equation:  x / 6 = -8 ",
         "answer": " -48  ",
         "choices": {},
         "id": 5981
