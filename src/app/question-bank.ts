@@ -38968,7 +38968,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 18",
-        "question": " Express (1/5 + 3.4) 2  (read as: open parenthesis one fifth plus 3.4 close  parenthesis divided by two) as a fraction in lowest terms. ",
+        "question": " Express (1/5 + 3.4) / 2  (read as: open parenthesis one fifth plus 3.4 close  parenthesis divided by two) as a fraction in lowest terms. ",
         "answer": " 9/5  ",
         "choices": {},
         "id": 2269
@@ -43842,7 +43842,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 16",
-        "question": "  Solve\t   for\t   a:    a\t   -­‐\t   2 9  \t   =   \t   \t    3    2\t     (read as: the quantity a minus two over 9 equals two thirds) ",
+        "question": "  Solve for a: (a-2)/9 = 2/3 (read as: the quantity a minus two over 9 equals two thirds) ",
         "answer": " 8 ",
         "choices": {},
         "id": 2558
@@ -45985,7 +45985,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 5",
         "question": " What is the equation, in slope intercept form, of the line perpendicular to the line y = 3x + 4, that passes through the point (-5, 7)? ",
-        "answer": " y = x+ (ACCEPT: y = x+5 )   ",
+        "answer": " y = -(1/3)x + 16/3 (ACCEPT: y = -(1/3)x + 5 1/3 )   ",
         "choices": {},
         "id": 2684
       },
@@ -46066,8 +46066,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 8",
-        "question": " Simplify y2 y -3 (read as y squared times y to the power of negative 3). ",
-        "answer": " 1 y  ALSO ACCEPT: y −1 ",
+        "question": " Simplify y^2 y^-3 (read as y squared times y to the power of negative 3). ",
+        "answer": " 1/y  ALSO ACCEPT: y^−1 ",
         "choices": {},
         "id": 2689
       },
@@ -47587,13 +47587,13 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 3",
         "question": " Which of the following can be equal to positive 4? ",
-        "answer": " Z) 4 2 ",
+        "answer": " Z) √4^2 (read as: the square root of 4 squared) ",
         "multipleChoiceAnswer": "Z",
         "choices": {
           "W": " |-3| x |1| (read as: the absolute value of negative 3 times the absolute value of 1) ",
           "X": " 23 (read as: 2 cubed) ",
-          "Y": " ",
-          "Z": "  − 16 (read as: the square root of negative 16) 4 2 (read as: the square root of 4 squared)  "
+          "Y": " √-16 (read as: the square root of negative 16) ",
+          "Z": " √4^2 (read as: the square root of 4 squared)  "
         },
         "id": 2777
       },
@@ -47606,7 +47606,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 3",
-        "question": " A triangle has an area of 9y2 - 9y -10. The base of the triangle is 3y - 5. In terms of y, what is the height of the triangle? ",
+        "question": " A triangle has an area of 9y^2 - 9y -10. The base of the triangle is 3y - 5. In terms of y, what is the height of the triangle? ",
         "answer": " 6y + 4  ",
         "choices": {},
         "id": 2778
@@ -47966,7 +47966,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 14",
-        "question": " 4 What\t   is\t    !34 \t   (read\t   as:\t   the\t   fourth\t   root\t   of\t   3\t   to\t   the\t   fourth)?\t    ",
+        "question": " What is fourth root of 3 to the power of 4 ?  ",
         "answer": " 3 (DO NOT ACCEPT: – 3) ",
         "choices": {},
         "id": 2799
@@ -47980,7 +47980,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 14",
-        "question": " If n is positive, write the following in standard polynomial form: (5n2 – 500) ÷ (n + 10) (read as: the quantity 5 n squared minus 500 divided by the quantity n plus 10)? ",
+        "question": " If n is positive, write the following in standard polynomial form: (5n^2 – 500) ÷ (n + 10) (read as: the quantity 5 n squared minus 500 divided by the quantity n plus 10)? ",
         "answer": " 5n - 50      ",
         "choices": {},
         "id": 2800
@@ -48371,13 +48371,13 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 25",
         "question": " Which of the following is a polynomial?  ",
-        "answer": " Z) a3 ",
+        "answer": " Z) a^3 ",
         "multipleChoiceAnswer": "Z",
         "choices": {
-          "W": " a2 2  4 a  + 3 (read as: a squared minus 4 over a plus 3)  ",
-          "X": " 3a - a-2 + 1 (read as: 3 a squared minus a to the minus 2 plus one) ",
-          "Y": " 15a2 - a1.5 - 3 (read as: 15 a squared minus a to the 1.5 minus three) ",
-          "Z": " a3 "
+          "W": " a^2 - 4/a + 3 (read as: a squared minus 4 over a plus 3)  ",
+          "X": " 3a^2 - a^(-2) + 1 (read as: 3 a squared minus a to the minus 2 plus one) ",
+          "Y": " 15a^2 - a^1.5 - 3 (read as: 15 a squared minus a to the 1.5 minus three) ",
+          "Z": " a^3 "
         },
         "id": 2821
       },
@@ -48389,7 +48389,7 @@ export class QuestionBank {
         "tossUp": false,
         "type": "Short Answer",
         "category": " MATH ",
-        "questionNumber": " 1",
+        "questionNumber": " 1", 
         "question": " Find a number x different from 3 such that x  +   =  3  +   (read as: x x 3 plus 1 over x equals 3 plus one third). ",
         "answer": " 1/3 ",
         "choices": {},
@@ -55568,7 +55568,7 @@ export class QuestionBank {
         "choices": {
           "W": " 4! (read as: four factorial) ",
           "X": " 52 ",
-          "Y": "\t   |!100|\t     x\t   4\t   (read\t   as:\t   the\t   absolute\t   value\t   of\t   the\t   square\t   root\t   of\t   100\t   times\t   4)\t     ",
+          "Y": " |√100| 4 (read as: the absolute value of the square root of 100 times 4)",
           "Z": " |√625| (read as: the absolute value of the square root of 625) "
         },
         "id": 3241
@@ -55658,7 +55658,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 18",
-        "question": " What is the degree of the polynomial 7x2y4 + 6x+ 7y + 10 (read as: 7 x squared y to the fourth plus 6 x plus 7 y plus 10)? ",
+        "question": " What is the degree of the polynomial 7 x^2 y^4 + 6x + 7y + 10 (read as: 7 x squared y to the fourth plus 6 x plus 7 y plus 10)? ",
         "answer": " 6 ",
         "choices": {},
         "id": 3247
@@ -55672,7 +55672,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 18",
-        "question": " What is the equation of the axis of symmetry for the parabola: y = 2x2 – 3x – 5? ",
+        "question": " What is the equation of the axis of symmetry for the parabola: y = 2x^2 – 3x – 5? ",
         "answer": " x = 3/4 OR x = 0.75   ",
         "choices": {},
         "id": 3248
@@ -60414,13 +60414,13 @@ export class QuestionBank {
         "type": "Multiple Choice",
         "category": " MATH ",
         "questionNumber": " 13",
-        "question": " Simplify: 2a +2b + 2c 4  (read as: the quantity of 2a plus 2b plus 2c divided by 4).  ",
-        "answer": " X) a+b+c 2  ",
+        "question": " Simplify: (2a +2b + 2c) / 4  (read as: the quantity of 2a plus 2b plus 2c divided by 4).  ",
+        "answer": " X) (a+b+c) / 2  ",
         "multipleChoiceAnswer": "X",
         "choices": {
-          "W": " ",
-          "X": "  abc  2 a+b+c 2 2(abc)  ",
-          "Y": "  2  ",
+          "W": " abc/2",
+          "X": "  (a+b+c) / 2 ",
+          "Y": "  2(abc)/2  ",
           "Z": " 2(a + b + c) "
         },
         "id": 3531
@@ -60516,7 +60516,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 16",
-        "question": " Simplify: ",
+        "question": " Simplify: 3f + 7 - 2f - 3",
         "answer": " f + 4 ",
         "choices": {},
         "id": 3537
@@ -60531,7 +60531,7 @@ export class QuestionBank {
         "category": " MATH ",
         "questionNumber": " 16",
         "question": " What is the multiplicative inverse, in simplest form, of 43 times 25? ",
-        "answer": " (read as: one, one thousand seventy-five ten thousandths, or 1 over 1075)  ",
+        "answer": " 1/1075 (read as: one, one thousand seventy-five ten thousandths, or 1 over 1075)  ",
         "choices": {},
         "id": 3538
       },
@@ -63352,8 +63352,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 3",
-        "question": " Simplify completely the fraction 11 23 11 23  .  ",
-        "answer": "  ",
+        "question": " Simplify completely the fraction 11/23 ",
+        "answer": "  11/23 ",
         "choices": {},
         "id": 3707
       },
@@ -64454,8 +64454,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 11",
-        "question": " Express 4 7  50 14  as a simplified mixed number.  ",
-        "answer": " 3  ",
+        "question": " Express 50/14  as a simplified mixed number.  ",
+        "answer": " 3 4/7 ",
         "choices": {},
         "id": 3772
       },
@@ -64578,13 +64578,13 @@ export class QuestionBank {
         "type": "Multiple Choice",
         "category": " MATH ",
         "questionNumber": " 15",
-        "question": " In the Pythagorean theorem, a2 + b2 = c2. If all side lengths are smaller than 1 unit long, which of the following is largest? ",
+        "question": " In the Pythagorean theorem, a^2 + b^2 = c^2. If all side lengths are smaller than 1 unit long, which of the following is largest? ",
         "answer": " Z) c ",
         "multipleChoiceAnswer": "Z",
         "choices": {
-          "W": " a2 ",
-          "X": " b2 ",
-          "Y": " c2 ",
+          "W": " a^2 ",
+          "X": " b^2 ",
+          "Y": " c^2 ",
           "Z": " c "
         },
         "id": 3780
@@ -71408,13 +71408,13 @@ export class QuestionBank {
         "type": "Multiple Choice",
         "category": " MATH ",
         "questionNumber": " 21",
-        "question": " If a 4-inch plant grows at the rate of height be in 27 days? ",
-        "answer": " Y) 10 3 4  INCHES ",
+        "question": " If a 4-inch plant grows at the rate of height be in 27 days, what will its height be in 27 days? ",
+        "answer": " Y) 10 3/4  INCHES ",
         "multipleChoiceAnswer": "Y",
         "choices": {
-          "W": " 6 3 4 3 4 1 4  inch per day, what will its  inches  ",
+          "W": " 6 3/4 inches  ",
           "X": " 7 inches ",
-          "Y": " 10 inches  ",
+          "Y": " 10 3/4 inches  ",
           "Z": " 11 inches "
         },
         "id": 4184
@@ -73863,7 +73863,7 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 20",
-        "question": " Simplify ",
+        "question": " Simplify (1/3) / (1/6) (read: one-third by one-sixth)",
         "answer": " 2 ",
         "choices": {},
         "id": 4329
@@ -102158,8 +102158,8 @@ export class QuestionBank {
         "type": "Short Answer",
         "category": " MATH ",
         "questionNumber": " 10",
-        "question": " Give the product of (x + 7) 2 in standard form: ",
-        "answer": " x2 + 14 x + 49        ",
+        "question": " Give the product of (x + 7)^2 in standard form: ",
+        "answer": " x^2 + 14x + 49 ",
         "choices": {},
         "id": 6025
       },

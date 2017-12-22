@@ -12,7 +12,7 @@
 <ion-content>
   <ion-card *ngFor="let item of items" (click)="showAnswer(item)" icon-start>
     <ion-card-header text-wrap >
-      <div *ngIf="viewMode == 1" >{{item.questionSet}} - {{item.round}} - ({{item.file}}:{{item.id}})</div>
+      <div *ngIf="viewMode == 1" >{{item.questionSet}} <span *ngIf="mode == 1">- {{item.round}} - ({{item.file}}: {{item.id}})</span></div>
       <div *ngIf="viewMode == 1" style="margin-top:4px"></div>
       <div>{{item.questionNumber}}. {{item.category}} ({{item.type}}) </div>
       <div style="margin-top:5px">{{ item.question }}</div>
